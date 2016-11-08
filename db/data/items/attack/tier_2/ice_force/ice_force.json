@@ -1,0 +1,27 @@
+{
+  "name": "Ice Force",
+  "tier": 2,
+  "price": 1960,
+  "category": "attack",
+  "components": ["ogre_tomahawk", "ares_belt"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 1000,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Frost Strike",
+      "effect": "Basic attacks will have a 25% chance of lowering target movement speed 35%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

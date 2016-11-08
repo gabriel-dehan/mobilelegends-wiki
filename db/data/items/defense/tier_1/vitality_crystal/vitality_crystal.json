@@ -1,0 +1,19 @@
+{
+  "name": "Vitality Crystal",
+  "tier": 1,
+  "price": 300,
+  "category": "defense",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 230,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

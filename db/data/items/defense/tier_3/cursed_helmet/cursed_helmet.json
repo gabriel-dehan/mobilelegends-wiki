@@ -1,0 +1,27 @@
+{
+  "name": "Cursed Helmet",
+  "tier": 3,
+  "price": 1860,
+  "category": "defense",
+  "components": ["molten_essence", "leather_jerkin"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 920,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 50,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Sacrifice",
+      "effect": "Deals 2% of one's max HP as magic damage per second to nearby enemies.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

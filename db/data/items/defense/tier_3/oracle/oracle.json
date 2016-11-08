@@ -1,0 +1,37 @@
+{
+  "name": "Oracle",
+  "tier": 3,
+  "price": 2110,
+  "category": "defense",
+  "components": ["silence_robe", "healing_necklace"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 850,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 36,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 35,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Scream",
+      "effect": "Within 4s after being attacked, the hero will regen 4% HP. This effect has a 8s cooldown time.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

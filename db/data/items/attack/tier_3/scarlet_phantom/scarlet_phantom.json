@@ -1,0 +1,32 @@
+{
+  "name": "Scarlet Phantom",
+  "tier": 3,
+  "price": 2140,
+  "category": "attack",
+  "components": ["wild_sword", "dagger"],
+  "properties": [
+    {
+      "type": "Attack",
+      "value": 40,
+      "modifier": true
+    },
+    {
+      "type": "Movement",
+      "value": 5,
+      "modifier": true
+    },
+    {
+      "type": "Critical",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Frenzy",
+      "effect": "Crit strikes will increase the hero's attack speed 35% and crit strike rate 10%, lasting 2s.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

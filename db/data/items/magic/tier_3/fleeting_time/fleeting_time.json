@@ -1,0 +1,32 @@
+{
+  "name": "Fleeting Time",
+  "tier": 3,
+  "price": 2450,
+  "category": "magic",
+  "components": ["magic_wand", "book_of_sages", "book_of_sages"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 75,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 15,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 20,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Timestream",
+      "effect": "After killing an enemy hero, immediately reduce cooldown time for all abilities 30%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

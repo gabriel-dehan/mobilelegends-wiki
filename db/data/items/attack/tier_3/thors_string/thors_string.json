@@ -1,0 +1,32 @@
+{
+  "name": "Thor's String",
+  "tier": 3,
+  "price": 1870,
+  "category": "attack",
+  "components": ["wild_sword", "javelin"],
+  "properties": [
+    {
+      "type": "Attack",
+      "value": 30,
+      "modifier": true
+    },
+    {
+      "type": "Movement",
+      "value": 8,
+      "modifier": true
+    },
+    {
+      "type": "Critical",
+      "value": 20,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Lightning",
+      "effect": "After 5 basic attacks, the next basic attack must deal 125 magic damage to 3 enemies.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

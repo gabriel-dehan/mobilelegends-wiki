@@ -1,0 +1,30 @@
+{
+  "name": "Nimble Blade",
+  "tier": 2,
+  "price": 750,
+  "category": "jungle",
+  "components": ["hunters_knife"],
+  "properties": [
+
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+30% Damage to Monsters",
+      "unique": true,
+      "passive": false
+    },
+    {
+      "name": "Avarice",
+      "effect": "Get an extra 30% Exp when jungling.",
+      "unique": true,
+      "passive": true
+    },
+    {
+      "name": "Gorge",
+      "effect": "Slaying jungle monsters increases your physical attack 4. Stacks up to 10 times.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

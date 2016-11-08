@@ -1,0 +1,53 @@
+<script type="text/x-template" id="item-details-component">
+  <div v-if="item">
+    <div class="related-items-container row">
+      <span class="related-items-title col s2">Related Items</span>
+      <div class="horizontal-list col s10">
+        <ul v-if="relatedItems.length > 0" class="related-items" :style="{ width: totalRelatedItemsWidth }">
+          <li @click="updateCurrentItem(item)" v-for="item in relatedItems">
+            <item :item="item" :minimal="true" :selectable="true"></item>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="item-tree-container">
+      <div class="item-tree-title">
+        Components
+      </div>
+      <div class="item-tree">
+ <div :class="['main-component', components.length > 0 ? '' : 'no-component', components.length == 1 ? 'one-component' : '']">
+          <item :item="item" :selectable="false" :selected="true" ></item>
+        </div>
+        <component-tree :items="components" :all-items="items"></component-tree>
+      </div>
+    </div>
+    <div class="item-details">
+      <div class="item-details-header row">
+        <div class="item-detail-picture col s2">
+          <item :item="item" :selectable="false" :minimal="true"></item>
+        </div>
+        <div class="item-detail-text col s10">
+          <h3 class="item-name">{{ item.name }}</h3>
+          <span class="item-price">
+            <%= image_tag 'money.png' %>
+            <span class="item-price-text">
+              {{ item.price }}
+            </span>
+          </span>
+        </div>
+      </div>
+      <div class="item-details-body row">
+        <ul :class="['col s6', 'item-properties', item.effects.length > 0 ? 'has-effects' : '']" v-if="item.properties.length > 0">
+          <li v-for="property in item.properties">
+            {{ property.value > 0 ? '+' : '-' }}{{ property.value }}{{ property.modifier ? '%' : '' }}&nbsp;{{ property.type }}
+          </li>
+        </ul>
+        <ul class="col s6 item-effects" v-if="item.effects.length > 0">
+          <li v-for="effect in item.effects">
+            <span class="effect-type">{{ effect.unique ? 'Unique' : '' }}&nbsp;{{ effect.passive ? 'Passive' : '' }}<span v-if="effect.name"> [<span class="effect-name">{{ effect.name }}</span>]</span>:</span> {{ effect.effect }}
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</script>

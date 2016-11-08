@@ -1,0 +1,19 @@
+{
+  "name": "Javelin",
+  "tier": 1,
+  "price": 320,
+  "category": "attack",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Critical",
+      "value": 8,
+      "modifier": true
+    }
+  ],
+  "effects": [
+
+  ]
+}

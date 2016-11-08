@@ -1,0 +1,27 @@
+{
+  "name": "Azure Blade",
+  "tier": 2,
+  "price": 780,
+  "category": "magic",
+  "components": ["mystery_codex"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 25,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 400,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Calamity",
+      "effect": "After using an ability, the next basic attack will carry an extra 75% magic damage. This effect has a 2s cooldown time.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

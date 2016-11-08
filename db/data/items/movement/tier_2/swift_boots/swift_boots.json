@@ -1,0 +1,21 @@
+{
+  "name": "Swift Boots",
+  "tier": 2,
+  "price": 710,
+  "category": "movement",
+  "components": [ "boots", "dagger" ],
+  "properties": [
+    {
+      "type": "Attack Speed",
+      "value": 15,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "effect": "+50 Movement Speed",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

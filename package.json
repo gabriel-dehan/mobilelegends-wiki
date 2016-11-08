@@ -1,0 +1,14 @@
+{
+  "name": "mobilelegendswiki",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Dehan",
+  "license": "WTFPL",
+  "dependencies": {
+    "vuex": "2.0.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Elegant Gem",
+  "tier": 2,
+  "price": 700,
+  "category": "magic",
+  "components": ["power_crystal", "vitality_crystal"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 300,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 400,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Favor",
+      "effect": "Regens 20% HP and Mana within 2s of leveling up.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

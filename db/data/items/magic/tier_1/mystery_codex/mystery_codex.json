@@ -1,0 +1,19 @@
+{
+  "name": "Mystery Codex",
+  "tier": 1,
+  "price": 300,
+  "category": "magic",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 15,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,223 @@
+Item name,Category,Price,Tier,Properties,Effects
+Fallen Sword,Attack,2320,Tier 2, +45 Physical Attack,Unique Passive-Devour: Basic attacks will deal 8% of the target's current HP as additional physical damage (up to 60 against monsters).
+,,,, +30% Attack Speed,
+,,,, +10% Lifesteal,
+Separator,,,,,
+Great Sword,Attack,250,Tier 1, +15 Physical Attack,
+Separator,,,,,
+Hunter Strike,Attack,2310,Tier 3, +100 Physical Attack,Unique Passive-Hunt: Increase movement speed 30% after killing a hero. Lasts 2s.
+,,,, +20% Cooldown Reduction,
+Separator,,,,,
+Dagger,Attack,280,Tier 1, +10% Attack Speed,
+Separator,,,,,
+Javelin,Attack,320,Tier 1, +8% Critical Strike Chance,
+Separator,,,,,
+Vampire Mallet,Attack,400,Tier 1, +8 Physical Attack,
+,,,, +8% Lifesteal,
+Separator,,,,,
+Legion Sword,Attack,910,Tier 2, +60 Physical Attack,
+Separator,,,,,
+Ogre Tomahawk,Attack,790,Tier 2, +30 Physical Attack,Unique Passive-Fury: Basic attacks will increase hero's movement speed 10%.
+,,,, +230 HP,
+Separator,,,,,
+Wild Sword,Attack,790,Tier 2, +15% Attack Speed,
+,,,, +5% Movement Speed,
+,,,, +10% Critical Strike Chance,
+Separator,,,,,
+Fury hammer,Attack,1230,Tier 2, +35 Physical Attack,Unique: +12 Physical Damage Reduction
+,,,, +10% Cooldown Reduction,
+Separator,,,,,
+Magic Blade,Attack,1710,Tier 2, +60 Physical Attack,"Unique Passive-Lifeline: When HP drops below 30%, get one shield that can absorb 510~1350 damage. (Increases with level)"
+,,,, +24 Magic Resistancee,
+Separator,,,,,
+Fallen Sword,Attack,2320,Tier 2, +45 Physical Attack,Unique Passive-Devour: Basic attacks will deal 8% of the target's current HP as additional physical damage (up to 60 against monsters).
+,,,, +30% Attack Speed,
+,,,, +10% Lifesteal,
+Separator,,,,,
+Deadly Blade,Attack,910,Tier 2, +30 Physical Attack,Unique Passive-Life Drain: Lowers HP regen effect of target 50%.
+,,,, +15% Resilience,
+Separator,,,,,
+Ice Force,Attack,1960,Tier 2, +30 Physical Attack,Unique Passive-Frost Strike: Basic attacks will have a 25% chance of lowering target movement speed 35%.
+,,,, +1000 HP,
+Separator,,,,,
+Wind Chaser,Attack,1885,Tier 3, +60 Physical Attack,Unique: +45% Physical Penetration
+Separator,,,,,
+Tooth of Greed,Attack,1710,Tier 3, +75 Physical Attack,Unique: +25% Lifesteal
+Separator,,,,,
+Blade of Destruction,Attack,2400,Tier 3, +75 Physical Attack,Unique: +50% Crit Damage
+,,,, +20% Critical Strike Chance,
+Separator,,,,,
+Endless Battle,Attack,2540,Tier 3, +45 Physical Attack,"Unique Passive-Divine Justice: After using this ability, the next basic attack will have an additional 70% physical damage as true damage. This effect has a 2s cooldown."
+,,,, +25% Magic Power,Unique Passive-Fury: Basic attacks will increase hero's movement speed 10%.
+,,,, +230 HP,
+,,,, +20% Attack Speed,
+,,,, +5% Movement Speed,
+,,,, +15% Critical Strike Chance,
+Separator,,,,,
+Thor's String,Attack,1870,Tier 3, +30% Attack Speed,"Unique Passive-Lightning: After 5 basic attacks, the next basic attack must deal 125 magic damage to 3 enemies."
+,,,, +8% Movement Speed,
+,,,, +20% Critical Strike Chance,
+Separator,,,,,
+Scarlet Phantom,Attack,2140,Tier 3, +40% Attack Speed,"Unique Passive-Frenzy: Crit strikes will increase the hero's attack speed 35% and crit strike rate 10%, lasting 2s."
+,,,, +5% Movement Speed,
+,,,, +10% Critical Strike Chance,
+Separator,,,,,
+Crazed Reaper,Attack,2215,Tier 3, +65 Physical Attack,Unique Passive-Fury: Basic attacks will increase hero's movement speed 10%.
+,,,, +300 HP,Unique Passive-Steamroll: Basic attacks will lower target physical armor 7. This effect can stack up to 5 times.
+,,,, +15% Cooldown Reduction,
+Separator,,,,,
+Blade of Despair,Attack,2740,Tier 3, +150 Physical Attack,"Unique Passive-Despair: When a target's HP is lower than 40%, damage will go up 35%."
+Separator,,,,,
+Vitality Crystal,Defense,300,Tier 1, +230 HP,
+Separator,,,,,
+Magic Resist Cloak,Defense,220,Tier 1, +18 Magic Resistance,
+Separator,,,,,
+Leather Jerkin,Defense,220,Tier 1, +18 Armor,
+Separator,,,,,
+Healing Necklace,Defense,140,Tier 1, +20 HP Regen,
+Separator,,,,,
+Ares Belt,Defense,900,Tier 2, +770 HP,
+Separator,,,,,
+Molten Essence,Defense,900,Tier 2, +540 HP,
+Separator,,,,,
+Silence Robe,Defense,1020,Tier 2, +540 HP,
+,,,, +24 Magic Resistance,
+Separator,,,,,
+Black Ice Shield,Defense,900,Tier 2, +400 Mana,
+,,,, +22 Armor,
+,,,, +10% Cooldown Reduction,
+Separator,,,,,
+Dreadnaught Armor,Defense,730,Tier 2, +40 Armor,"Unique Passive-Deter: When enemy heroes are attacking, reduces attack speed 12% and movement speed 5%. This effect lasts 2s and can stack up to 3 times."
+Separator,,,,,
+Courage Bulwark,Defense,1970,Tier 2, +770 HP,Unique Passive-Bravery: Raises attack and defense of surrounding allies 10%.
+,,,, +45 HP Regen,
+Separator,,,,,
+Blade Armor,Defense,1470,Tier 2, +100 Armor,Unique Passive-Counterstrike: Deals 25% of opponent's physical attack as physical damage to an attacker when a basic attack is received.
+Separator,,,,,
+Demon Wings,Defense,2020,Tier 2, +15 Physical Attack,Unique Passive-Demonize: Increases attack 40 when HP drops below 30%.
+,,,, +770 HP,
+Separator,,,,,
+Cursed Helmet,Defense,1860,Tier 3, +920 HP,Unique Passive-Sacrifice: Deals 2% of one's max HP as magic damage per second to nearby enemies.
+,,,, +50 Armor,
+Separator,,,,,
+Bloodthirsty King,Defense,2380,Tier 3, +1550 HP,Unique Passive-Bloodlust: A kill or assist regens 20% of hero's HP within 5s.
+,,,, +75 HP Regen,
+Separator,,,,,
+Demon's Advent,Defense,2170,Tier 3, +920 HP,"Unique Passive-Deter: When enemy heroes are attacking, reduces attack speed 12% and movement speed 5%. This effect lasts 2s and can stack up to 3 times."
+,,,, +54 Armor,
+Separator,,,,,
+Oracle,Defense,2110,Tier 3, +850 HP,"Unique Passive-Scream: Within 4s after being attacked, the hero will regen 4% HP. This effect has a 8s cooldown time."
+,,,, +36 Magic Resistance,
+,,,, +35 HP Regen,
+,,,, +10% Cooldown Reduction,
+Separator,,,,,
+Saint's Refuge,Defense,2050,Tier 3, +900 HP,"Unique Passive-Refuge: Every 30s, get one shield that can absorb 450~1150 damage. (Shield effect increases as the battle goes on.)"
+,,,, +56 Magic Resistance,
+Separator,,,,,
+Dominance Ice,Defense,2130,Tier 3, +500 Mana,Unique: +20% Cooldown Reduction.
+,,,, +70 Armor,Unique Passive-Arctic Cold: Lowers attack speed of neerby enemy heroes 30%.
+Separator,,,,,
+Immortality,Defense,1980,Tier 3, +30 Armor,Unique Passive-Rebirth: Resurrect 2s after dying and get 25% HP and shield that can absorb damage equal to 50% max HP. Shield lasts for 3s. Cooldown for this effect is 180s.
+,,,, +30 Magic Resistance,
+Separator,,,,,
+Brute Force Breastplate,Defense,2120,Tier 3, +770 HP,Unique Passive-Brute Force: Each attack received adds 2% attack speed and 3% physical attack.
+,,,, +40 Armor,
+Separator,,,,,
+Heart of Steel,Defense,2260,Tier 3, +880 HP,Unique: +20% Crit Strike Rate Reduction.
+,,,, +30 Armor,
+,,,, +35 HP Regen,
+Separator,,,,,
+Hunter's Knife,Jungle,250,Tier 1,,Unique: +20% Damage to Monsters
+Separator,,,,,
+Curse Sword,Jungle,760,Tier 2,,Unique: +30% Damage to Monsters
+,,,,,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your magic attack 4. Stacks up to 10 times.
+Separator,,,,,
+Pillager Axe,Jungle,720,Tier 2,,Unique: +30% Damage to Monsters
+,,,,,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your HP 50. Stacks up to 10 times.
+Separator,,,,,
+Nimble Blade,Jungle,750,Tier 2,,Unique: +30% Damage to Monsters
+,,,,,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your physical attack 4. Stacks up to 10 times.
+Separator,,,,,
+Star Shard,Jungle,1825,Tier 3, +400 Mana,Unique: +30% Damage to Monsters
+,,,, +1% Magic Power,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your magic attack 4. Stacks up to 10 times.
+Separator,,,,,
+Beast Killer,Jungle,1825,Tier 3, +615 HP,Unique: +30% Damage to Monsters
+,,,,,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your HP 50. Stacks up to 10 times.
+Separator,,,,,
+Raptor Machete,Jungle,1700,Tier 3, +35 Physical Attack,Unique: +30% Damage to Monsters
+,,,, +12% Attack Speed,Unique Passive-Avarice: Get an extra 30% Exp when jungling.
+,,,,,Unique Passive-Gorge: Slaying jungle monsters increases your physical attack 4. Stacks up to 10 times.
+Separator,,,,,
+Mystery Codex,Magic,300,Tier 1, +15 Magic Power,
+Separator,,,,,
+Power Crystal,Magic,220,Tier 1, +300 Mana,
+Separator,,,,,
+Magic Necklace,Magic,120,Tier 1, +10 Mana Regen,
+Separator,,,,,
+Book of Sages,Magic,450,Tier 1, +8 Magic Power,
+,,,, +8% Cooldown Reduction,
+Separator,,,,,
+Magic Wand,Magic,820,Tier 2, +45 Magic Power,
+Separator,,,,,
+Tome of Evil,Magic,900,Tier 2, +15 Magic Power,
+,,,, +20 Magic Resistance,
+,,,, +20 Mana Regen,
+,,,, +5% Cooldown Reduction,
+Separator,,,,,
+Azure Blade,Magic,780,Tier 2, +25 Magic Power,"Unique Passive-Calamity: After using an ability, the next basic attack will carry an extra 75% magic damage. This effect has a 2s cooldown time."
+,,,, +400 Mana,
+Separator,,,,,
+Exotic Veil,Magic,1020,Tier 2, +30 Magic Power,Unique: +25 Magic Damage Reduction.
+,,,, +230 HP,
+Separator,,,,,
+Elegant Gem,Magic,700,Tier 2, +300 HP,Unique Passive-Favor: Regens 20% HP and Mana within 2s of leveling up.
+,,,, +400 Mana,
+Separator,,,,,
+Enchanted Talisman,Magic,2030,Tier 2, +55 Magic Power,Unique Passive-Mana Spring: A kill or assist regens 20% of hero's Mana within 5 seconds.
+,,,, +28 Magic Resistance,
+,,,, +25 Mana Regen,
+,,,, +20% Cooldown Reduction,
+Separator,,,,,
+Sun Scepter,Magic,1650,Tier 2, +65 Magic Power,
+,,,, +600 Mana,
+,,,, +15 Mana Regen,
+Separator,,,,,
+Feather of Heaven,Magic,2060,Tier 2, +40 Magic Power,Unique Passive-Affliction: Basic attacks will deal 40% of the hero's AP as additional magic damage.
+,,,, +20% Attack Speed,
+,,,, +15% Cooldown Reduction,
+Separator,,,,,
+Astral Wand,Magic,2070,Tier 3, +65 Magic Power,Unique: +40% Magic Penetration.
+,,,,,"Unique Passive-Starlight: When HP is over 70%, the unique attribute for this equipement will increase 30%."
+Separator,,,,,
+Guardian Relic,Magic,2280,Tier 3, +90 Magic Power,Unique: +35% Magic Power.
+,,,,,"Unique Passive-Exterminate: After a skill hits a target, magic attack will immediately increase 15%. the next skill damage will terminate this effect. This effect can last un to 3s with a"
+Separator,,,,,
+Concentrated Energy,Magic,2130,Tier 3, +95 Magic Power,Unique: +20% Spell Vamp.
+,,,, +7% Movement Sppeed,
+Separator,,,,,
+Frost,Magic,2070,Tier 3, +60 Magic Power,Unique Passive-Freeze: Skills that damage a target will carry a 20% slow down effect. This effect will slowly fade away within 2s.
+,,,, +800 HP,
+Separator,,,,,
+Flame of Fury,Magic,1770,Tier 3, +55 Magic Power,"Unique Passive-Scorch: Abilities will burm the target for 3s, dealing 6% of the difference between target's current HP and one's own HP as magic damage each second."
+,,,, +460 HP,
+,,,, +25 Magic Damage Reduction,
+Separator,,,,,
+Calamity Scythe,Magic,1810,Tier 3, +70 Magic Power,"Unique Passive-Calamity: After using an ability, the next basic attack will carry an extra 150% magic damage. This effect has a 2s cooldown time."
+,,,, +400 Mana,
+,,,, +8% Movement Speed,
+Separator,,,,,
+Eternal Scepter,Magic,2100,Tier 3, +65 Magic Power,Unique Passive-Time: Adds 30 HP and 5 magic attck every 30s. Up to 10 times.
+,,,, +615 HP,
+,,,, +600 Mana,
+Separator,,,,,
+Blood Wings,Magic,3000,Tier 3, +150 Magic Power,Unique Passive-Covenant: Adds 2 HP for every 1 pt of magic power added.
+Separator,,,,,
+Fleeting Time,Magic,2450,Tier 3, +75 Magic Power,"Unique Passive-Timestream: After killing an enemy hero, immediately reduce cooldown time for all abilities 30%."
+,,,, +15 Mana Regen,
+,,,, +20% Cooldown Reduction,
+Separator,,,,,

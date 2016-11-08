@@ -1,0 +1,32 @@
+{
+  "name": "Tome of Evil",
+  "tier": 2,
+  "price": 900,
+  "category": "magic",
+  "components": ["mystery_codex", "book_of_sages"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 15,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 20,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 20,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 5,
+      "modifier": true
+    }
+  ],
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Endless Battle",
+  "tier": 3,
+  "price": 2540,
+  "category": "attack",
+  "components": ["ogre_tomahawk", "wild_sword", "azure_blade"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 45,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 25,
+      "modifier": true
+    },
+    {
+      "type": "HP",
+      "value": 230,
+      "modifier": false
+    },
+    {
+      "type": "Attack",
+      "value": 20,
+      "modifier": true
+    },
+    {
+      "type": "Movement",
+      "value": 5,
+      "modifier": true
+    },
+    {
+      "type": "Critical",
+      "value": 15,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Divine Justice",
+      "effect": "After using this ability, the next basic attack will have an additional 70% physical damage as true damage. This effect has a 2s cooldown.",
+      "unique": true,
+      "passive": true
+    },
+    {
+      "name": "Fury",
+      "effect": "Basic attacks will increase hero's movement speed 10%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

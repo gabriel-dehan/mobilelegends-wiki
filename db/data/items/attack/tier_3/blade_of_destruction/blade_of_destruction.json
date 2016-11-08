@@ -1,0 +1,27 @@
+{
+  "name": "Blade of Destruction",
+  "tier": 3,
+  "price": 2400,
+  "category": "attack",
+  "components": ["legion_sword", "javelin", "javelin"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 75,
+      "modifier": false
+    },
+    {
+      "type": "Critical",
+      "value": 20,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+50% Crit Damage",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

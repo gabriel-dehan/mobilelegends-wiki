@@ -1,0 +1,27 @@
+{
+  "name": "Concentrated Energy",
+  "tier": 3,
+  "price": 2130,
+  "category": "magic",
+  "components": ["magic_wand"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 95,
+      "modifier": false
+    },
+    {
+      "type": "Movement",
+      "value": 7,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+20% Spell Vamp.",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

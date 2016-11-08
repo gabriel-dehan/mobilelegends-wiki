@@ -1,0 +1,27 @@
+{
+  "name": "Immortality",
+  "tier": 3,
+  "price": 1980,
+  "category": "defense",
+  "components": ["ares_belt"],
+  "properties": [
+    {
+      "type": "Armor",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 30,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Rebirth",
+      "effect": "Resurrect 2s after dying and get 25% HP and shield that can absorb damage equal to 50% max HP. Shield lasts for 3s. Cooldown for this effect is 180s.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

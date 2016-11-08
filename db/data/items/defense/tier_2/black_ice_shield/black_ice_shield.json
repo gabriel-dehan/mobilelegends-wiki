@@ -1,0 +1,27 @@
+{
+  "name": "Black Ice Shield",
+  "tier": 2,
+  "price": 900,
+  "category": "defense",
+  "components": ["leather_jerkin", "power_crystal"],
+  "properties": [
+    {
+      "type": "Mana",
+      "value": 400,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 22,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+
+  ]
+}

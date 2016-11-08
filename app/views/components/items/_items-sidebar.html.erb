@@ -1,0 +1,11 @@
+<script type="text/x-template" id="items-sidebar-component">
+  <div class="items-sidebar">
+    <ul>
+      <li @click="updateCategory(category, $event)"
+          v-for="category in categories"
+          :class="category == currentCategory ? 'selected' : ''">
+          {{ category }}
+      </li>
+    </ul>
+  </div>
+</script>

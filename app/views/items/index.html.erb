@@ -1,0 +1,34 @@
+<script type="text/javascript">
+ window.VueInitialState = {
+   items: <%= raw @items.to_json %>,
+   categories: <%= raw @categories.to_json %>
+ };
+</script>
+
+<div id="items-app">
+  <div class="container items-app-wrapper">
+    <div class="row items-app-row">
+      <div class="col s2 items-sidebar-container">
+        <items-sidebar :categories="categories"
+                       :current-category="currentCategory"
+                       :set-category="setCategory">
+        </items-sidebar>
+      </div>
+
+      <div class="col s4 items-list-container">
+        <items-list :items="items"
+                    :current-category="currentCategory"
+                    :current-item="currentItem"
+                    :set-item="setItem">
+        </items-list>
+      </div>
+
+      <div class="col s6 item-details-container">
+        <item-details :item="currentItem"
+                      :items="items"
+                      :set-item="setItem">
+        </item-details>
+      </div>
+    </div>
+  </div>
+</div>

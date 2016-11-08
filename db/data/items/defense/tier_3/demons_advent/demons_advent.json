@@ -1,0 +1,27 @@
+{
+  "name": "Demon's Advent",
+  "tier": 3,
+  "price": 2170,
+  "category": "defense",
+  "components": ["ares_belt", "dreadnaught_armor"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 920,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 54,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Deter",
+      "effect": "When enemy heroes are attacking, reduces attack speed 12% and movement speed 5%. This effect lasts 2s and can stack up to 3 times.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

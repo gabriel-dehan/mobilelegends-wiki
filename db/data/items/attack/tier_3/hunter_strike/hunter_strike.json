@@ -1,0 +1,27 @@
+{
+  "name": "Hunter Strike",
+  "tier": 3,
+  "price": 2310,
+  "category": "attack",
+  "components": ["legion_sword", "great_sword", "great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 100,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 20,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Hunt",
+      "effect": "Increase movement speed 30% after killing a hero. Lasts 2s.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<script type="text/x-template" id="items-list-component">
+  <div class="items-list row">
+    <div v-for="tier in tiers" class="col s4">
+      <ul>
+        <li @click="updateCurrentItem(item)" v-for="item in filteredByTier(tier)">
+          <item :item="item" :selectable="true" :selected="currentItem && (currentItem.name == item.name)"></item>
+        </li>
+      </ul>
+    </div>
+  </div>
+</script>
+

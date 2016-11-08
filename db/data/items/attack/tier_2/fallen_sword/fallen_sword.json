@@ -1,0 +1,32 @@
+{
+  "name": "Fallen Sword",
+  "tier": 2,
+  "price": 2320,
+  "category": "attack",
+  "components": ["great_sword", "dagger", "vampire_mallet"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 45,
+      "modifier": false
+    },
+    {
+      "type": "Attack",
+      "value": 30,
+      "modifier": true
+    },
+    {
+      "type": "Lifesteal",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Devour",
+      "effect": "Basic attacks will deal 8% of the target's current HP as additional physical damage (up to 60 against monsters).",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

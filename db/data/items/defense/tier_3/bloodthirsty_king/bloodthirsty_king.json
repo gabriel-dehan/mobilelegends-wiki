@@ -1,0 +1,27 @@
+{
+  "name": "Bloodthirsty King",
+  "tier": 3,
+  "price": 2380,
+  "category": "defense",
+  "components": ["ares_belt", "healing_necklace"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 1550,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 75,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Bloodlust",
+      "effect": "A kill or assist regens 20% of hero's HP within 5s.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

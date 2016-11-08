@@ -1,0 +1,28 @@
+{
+  "name": "Guardian Relic",
+  "tier": 3,
+  "price": 2280,
+  "category": "magic",
+  "components": ["magic_wand", "magic_wand"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 90,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+35% Magic Power.",
+      "unique": true,
+      "passive": false
+    },
+    {
+      "name": "Exterminate",
+      "effect": "After a skill hits a target, magic attack will immediately increase 15%. the next skill damage will terminate this effect. This effect can last un to 3s with a",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

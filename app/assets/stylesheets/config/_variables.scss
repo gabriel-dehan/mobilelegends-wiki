@@ -2,8 +2,8 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
-$base-font: "Open Sans", "Helvetica", "sans-serif";
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,100,300,700,500|Cuprum:400,400i,700,700i");
+$base-font: "Cuprum", "Helvetica", "sans-serif";
 $header-font: "Raleway", "Helvetica", "sans-serif";
 
 // Local fonts (uncomment following lines)
@@ -32,3 +32,21 @@ $yellow: #FDB631;
 $orange: #E67E22;
 $green: #32B796;
 $gray: #000000;
+
+$black: rgb(3, 14, 21);
+$blackish: rgb(10, 27, 32);
+$dark-text: rgb(46, 100, 100);
+$white: rgb(250, 250, 250);
+$light-yellow: rgb(254, 254, 232);
+$dark-yellow: rgb(232, 232, 124);
+$yellow: rgb(250, 250, 179);
+$neon-blue: rgb(185, 227, 234);
+$neon-gradient-start: #56edec;
+$neon-gradient-end: #009da9;
+$light-gradient-end: rgb(55, 174, 188);
+$light-gradient-start: rgb(8, 35, 42);
+$dark-gradient-end: rgb(12, 55, 67);
+$dark-gradient-start: rgb(8, 35, 42);
+$sidebar-border: #4d7a8d;
+$sidebar-border-light: rgb(179, 240, 243);
+$block-border: rgb(39, 67, 67);

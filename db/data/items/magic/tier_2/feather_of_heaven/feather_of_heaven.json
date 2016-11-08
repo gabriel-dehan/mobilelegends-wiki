@@ -1,0 +1,32 @@
+{
+  "name": "Feather of Heaven",
+  "tier": 2,
+  "price": 2060,
+  "category": "magic",
+  "components": ["mystery_codex", "power_crystal", "book_of_sages"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 40,
+      "modifier": false
+    },
+    {
+      "type": "Attack",
+      "value": 20,
+      "modifier": true
+    },
+    {
+      "type": "Cooldown",
+      "value": 15,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Affliction",
+      "effect": "Basic attacks will deal 40% of the hero's AP as additional magic damage.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

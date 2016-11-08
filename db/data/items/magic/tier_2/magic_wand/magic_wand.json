@@ -1,0 +1,17 @@
+{
+  "name": "Magic Wand",
+  "tier": 2,
+  "price": 820,
+  "category": "magic",
+  "components": ["mystery_codex"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 45,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Calamity Scythe",
+  "tier": 3,
+  "price": 1810,
+  "category": "magic",
+  "components": ["azure_blade", "magic_wand"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 70,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 400,
+      "modifier": false
+    },
+    {
+      "type": "Movement",
+      "value": 8,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Calamity",
+      "effect": "After using an ability, the next basic attack will carry an extra 150% magic damage. This effect has a 2s cooldown time.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

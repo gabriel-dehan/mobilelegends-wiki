@@ -1,0 +1,15 @@
+{
+  "name": "Dagger",
+  "tier": 1,
+  "price": 280,
+  "category": "attack",
+  "components": [],
+  "properties": [
+    {
+      "type": "Attack Speed",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": []
+}

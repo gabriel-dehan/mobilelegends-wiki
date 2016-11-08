@@ -1,0 +1,33 @@
+{
+  "name": "Dominance Ice",
+  "tier": 3,
+  "price": 2130,
+  "category": "defense",
+  "components": ["black_ice_shield", "dreadnaught_armor"],
+  "properties": [
+    {
+      "type": "Mana",
+      "value": 500,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 70,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+20% Cooldown Reduction.",
+      "unique": true,
+      "passive": false
+    },
+    {
+      "name": "Arctic",
+      "effect": "Cold: Lowers attack speed of neerby enemy heroes 30%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

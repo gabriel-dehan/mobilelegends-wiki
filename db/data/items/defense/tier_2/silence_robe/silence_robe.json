@@ -1,0 +1,22 @@
+{
+  "name": "Silence Robe",
+  "tier": 2,
+  "price": 1020,
+  "category": "defense",
+  "components": ["vitality_crystal", "magic_resist_cloak"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 540,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 24,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

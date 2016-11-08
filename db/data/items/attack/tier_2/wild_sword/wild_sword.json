@@ -1,0 +1,27 @@
+{
+  "name": "Wild Sword",
+  "tier": 2,
+  "price": 790,
+  "category": "attack",
+  "components": ["dagger", "javelin"],
+  "properties": [
+    {
+      "type": "Attack",
+      "value": 15,
+      "modifier": true
+    },
+    {
+      "type": "Movement",
+      "value": 5,
+      "modifier": true
+    },
+    {
+      "type": "Critical",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+
+  ]
+}

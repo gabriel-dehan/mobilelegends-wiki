@@ -1,0 +1,27 @@
+{
+  "name": "Magic Blade",
+  "tier": 2,
+  "price": 1710,
+  "category": "attack",
+  "components": ["great_sword", "magic_resist_cloak"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 60,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 24,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Lifeline",
+      "effect": "When HP drops below 30%, get one shield that can absorb 510~1350 damage. (Increases with level)",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Legion Sword",
+  "tier": 2,
+  "price": 910,
+  "category": "attack",
+  "components": ["great_sword", "great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 60,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

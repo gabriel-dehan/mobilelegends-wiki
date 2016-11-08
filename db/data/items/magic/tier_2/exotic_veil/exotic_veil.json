@@ -1,0 +1,27 @@
+{
+  "name": "Exotic Veil",
+  "tier": 2,
+  "price": 1020,
+  "category": "magic",
+  "components": ["mystery_codex", "vitality_crystal"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 230,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+25 Magic Damage Reduction.",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

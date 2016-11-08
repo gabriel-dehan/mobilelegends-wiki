@@ -1,0 +1,32 @@
+{
+  "name": "Heart of Steel",
+  "tier": 3,
+  "price": 2260,
+  "category": "defense",
+  "components": ["ares_belt", "leather_jerkin", "healing_necklace"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 880,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 35,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+20% Crit Strike Rate Reduction.",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

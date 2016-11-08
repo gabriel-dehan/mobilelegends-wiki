@@ -1,0 +1,27 @@
+{
+  "name": "Brute Force Breastplate",
+  "tier": 3,
+  "price": 2120,
+  "category": "defense",
+  "components": ["ares_belt", "leather_jerkin"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 770,
+      "modifier": false
+    },
+    {
+      "type": "Armor",
+      "value": 40,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Brute Force",
+      "effect": "Each attack received adds 2% attack speed and 3% physical attack.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

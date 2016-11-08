@@ -1,0 +1,21 @@
+{
+  "name": "Warrior Boots",
+  "tier": 2,
+  "price": 690,
+  "category": "movement",
+  "components": [ "boots", "leather_jerkin" ],
+  "properties": [
+    {
+      "type": "Armor",
+      "value": 22,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "effect": "+50 Movement Speed",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

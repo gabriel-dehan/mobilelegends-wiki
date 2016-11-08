@@ -1,0 +1,20 @@
+{
+  "name": "Hunter's Knife",
+  "tier": 1,
+  "price": 250,
+  "category": "jungle",
+  "components": [
+
+  ],
+  "properties": [
+
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+20% Damage to Monsters",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

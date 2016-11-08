@@ -1,0 +1,27 @@
+{
+  "name": "Courage Bulwark",
+  "tier": 2,
+  "price": 1970,
+  "category": "defense",
+  "components": ["vitality_crystal", "leather_jerkin", "magic_resist_cloak"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 770,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 45,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Bravery",
+      "effect": "Raises attack and defense of surrounding allies 10%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

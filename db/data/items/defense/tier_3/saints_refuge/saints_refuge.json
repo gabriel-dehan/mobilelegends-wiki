@@ -1,0 +1,27 @@
+{
+  "name": "Saint's Refuge",
+  "tier": 3,
+  "price": 2050,
+  "category": "defense",
+  "components": ["silence_robe", "ares_belt"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 900,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 56,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Refuge",
+      "effect": "Every 30s, get one shield that can absorb 450~1150 damage. (Shield effect increases as the battle goes on.)",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Enchanted Talisman",
+  "tier": 2,
+  "price": 2030,
+  "category": "magic",
+  "components": ["magic_necklace", "book_of_sages", "tome_of_evil"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 55,
+      "modifier": false
+    },
+    {
+      "type": "Magic",
+      "value": 28,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 25,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 20,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Mana Spring",
+      "effect": "A kill or assist regens 20% of hero's Mana within 5 seconds.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

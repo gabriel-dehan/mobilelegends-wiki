@@ -1,0 +1,19 @@
+{
+  "name": "Healing Necklace",
+  "tier": 1,
+  "price": 140,
+  "category": "defense",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 20,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Demon Wings",
+  "tier": 2,
+  "price": 2020,
+  "category": "defense",
+  "components": ["vitality_crystal", "vitality_crystal", "great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 15,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 770,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Demonize",
+      "effect": "Increases attack 40 when HP drops below 30%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

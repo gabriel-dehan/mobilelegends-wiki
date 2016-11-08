@@ -1,0 +1,27 @@
+{
+  "name": "Sun Scepter",
+  "tier": 2,
+  "price": 1650,
+  "category": "magic",
+  "components": ["power_crystal", "magic_necklace"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 65,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 600,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 15,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

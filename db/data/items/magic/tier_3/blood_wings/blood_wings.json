@@ -1,0 +1,22 @@
+{
+  "name": "Blood Wings",
+  "tier": 3,
+  "price": 3000,
+  "category": "magic",
+  "components": ["magic_wand", "magic_wand"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 150,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Covenant",
+      "effect": "Adds 2 HP for every 1 pt of magic power added.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

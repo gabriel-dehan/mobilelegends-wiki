@@ -1,0 +1,22 @@
+{
+  "name": "Blade of Despair",
+  "tier": 3,
+  "price": 2740,
+  "category": "attack",
+  "components": ["legion_sword", "legion_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 150,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Despair",
+      "effect": "When a target's HP is lower than 40%, damage will go up 35%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Fury hammer",
+  "tier": 2,
+  "price": 1230,
+  "category": "attack",
+  "components": ["great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 35,
+      "modifier": false
+    },
+    {
+      "type": "Cooldown",
+      "value": 10,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+12 Physical Damage Reduction",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

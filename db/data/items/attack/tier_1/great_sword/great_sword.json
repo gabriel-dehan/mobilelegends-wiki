@@ -1,0 +1,19 @@
+{
+  "name": "Great Sword",
+  "tier": 1,
+  "price": 250,
+  "category": "attack",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 15,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

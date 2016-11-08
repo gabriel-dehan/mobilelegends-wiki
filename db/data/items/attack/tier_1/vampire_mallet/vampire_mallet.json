@@ -1,0 +1,24 @@
+{
+  "name": "Vampire Mallet",
+  "tier": 1,
+  "price": 400,
+  "category": "attack",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 8,
+      "modifier": false
+    },
+    {
+      "type": "Lifesteal",
+      "value": 8,
+      "modifier": true
+    }
+  ],
+  "effects": [
+
+  ]
+}

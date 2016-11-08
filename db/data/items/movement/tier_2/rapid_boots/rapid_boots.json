@@ -1,0 +1,15 @@
+{
+  "name": "Rapid Boots",
+  "tier": 2,
+  "price": 630,
+  "category": "movement",
+  "components": [ "boots" ],
+  "properties": [],
+  "effects": [
+    {
+      "effect": "+65 Movement Speed",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Blade Armor",
+  "tier": 2,
+  "price": 1470,
+  "category": "defense",
+  "components": ["leather_jerkin", "leather_jerkin", "leather_jerkin"],
+  "properties": [
+    {
+      "type": "Armor",
+      "value": 100,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Counterstrike",
+      "effect": "Deals 25% of opponent's physical attack as physical damage to an attacker when a basic attack is received.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

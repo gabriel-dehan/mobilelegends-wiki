@@ -1,0 +1,32 @@
+{
+  "name": "Eternal Scepter",
+  "tier": 3,
+  "price": 2100,
+  "category": "magic",
+  "components": ["magic_wand", "elegant_gem"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 65,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 615,
+      "modifier": false
+    },
+    {
+      "type": "Mana",
+      "value": 600,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Time",
+      "effect": "Adds 30 HP and 5 magic attck every 30s. Up to 10 times.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

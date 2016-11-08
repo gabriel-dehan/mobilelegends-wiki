@@ -1,0 +1,22 @@
+{
+  "name": "Tooth of Greed",
+  "tier": 3,
+  "price": 1710,
+  "category": "attack",
+  "components": ["legion_sword", "vampire_mallet"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 75,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+25% Lifesteal",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

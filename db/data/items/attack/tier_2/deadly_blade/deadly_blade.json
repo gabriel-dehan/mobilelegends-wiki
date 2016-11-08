@@ -1,0 +1,27 @@
+{
+  "name": "Deadly Blade",
+  "tier": 2,
+  "price": 910,
+  "category": "attack",
+  "components": ["great_sword", "great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "Resilience",
+      "value": 15,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "Life Drain",
+      "effect": "Lowers HP regen effect of target 50%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

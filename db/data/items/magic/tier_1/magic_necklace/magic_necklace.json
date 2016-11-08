@@ -1,0 +1,19 @@
+{
+  "name": "Magic Necklace",
+  "tier": 1,
+  "price": 120,
+  "category": "magic",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Mana",
+      "value": 10,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

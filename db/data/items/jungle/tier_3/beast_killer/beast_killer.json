@@ -1,0 +1,34 @@
+{
+  "name": "Beast Killer",
+  "tier": 3,
+  "price": 1825,
+  "category": "jungle",
+  "components": ["pillager_axe", "leather_jerkin", "magic_resist_cloak"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 615,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+30% Damage to Monsters",
+      "unique": true,
+      "passive": false
+    },
+    {
+      "name": "Avarice",
+      "effect": "Get an extra 30% Exp when jungling.",
+      "unique": true,
+      "passive": true
+    },
+    {
+      "name": "Gorge",
+      "effect": "Slaying jungle monsters increases your HP 50. Stacks up to 10 times.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

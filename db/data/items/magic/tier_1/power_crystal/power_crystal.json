@@ -1,0 +1,19 @@
+{
+  "name": "Power Crystal",
+  "tier": 1,
+  "price": 220,
+  "category": "magic",
+  "components": [
+
+  ],
+  "properties": [
+    {
+      "type": "Mana",
+      "value": 300,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

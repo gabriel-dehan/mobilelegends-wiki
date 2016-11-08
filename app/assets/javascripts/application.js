@@ -1,4 +1,12 @@
 //= require jquery
 //= require jquery_ujs
-//= require bootstrap-sprockets
-//= require_tree .
+//= require lodash
+//= require alertify
+//= require alertify/confirm-modal
+//= require vue
+//= require vue-router
+//= require vue-resource
+//= require vuex/dist/vuex
+//= require_tree ./lib
+//= require_tree ./components
+//= require_tree ./app

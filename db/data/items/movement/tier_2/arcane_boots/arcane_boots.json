@@ -1,0 +1,21 @@
+{
+  "name": "Arcane Boots",
+  "tier": 2,
+  "price": 790,
+  "category": "movement",
+  "components": [ "boots" ],
+  "properties": [
+    {
+      "type": "Magic Damage Reduction",
+      "value": 25,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "effect": "+50 Movement Speed",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

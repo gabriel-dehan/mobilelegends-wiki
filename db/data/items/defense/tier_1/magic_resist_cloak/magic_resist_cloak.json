@@ -1,0 +1,15 @@
+{
+  "name": "Magic Resist Cloak",
+  "tier": 1,
+  "price": 220,
+  "category": "defense",
+  "components": [],
+  "properties": [
+    {
+      "type": "Magic Resistance",
+      "value": 18,
+      "modifier": false
+    }
+  ],
+  "effects": []
+}

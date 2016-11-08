@@ -1,0 +1,17 @@
+{
+  "name": "Molten Essence",
+  "tier": 2,
+  "price": 900,
+  "category": "defense",
+  "components": ["vitality_crystal"],
+  "properties": [
+    {
+      "type": "HP",
+      "value": 540,
+      "modifier": false
+    }
+  ],
+  "effects": [
+
+  ]
+}

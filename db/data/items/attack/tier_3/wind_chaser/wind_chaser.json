@@ -1,0 +1,22 @@
+{
+  "name": "Wind Chaser",
+  "tier": 3,
+  "price": 1885,
+  "category": "attack",
+  "components": ["legion_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 60,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+45% Physical Penetration",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}

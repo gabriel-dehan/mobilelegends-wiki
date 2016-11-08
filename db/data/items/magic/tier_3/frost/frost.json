@@ -1,0 +1,27 @@
+{
+  "name": "Frost",
+  "tier": 3,
+  "price": 2070,
+  "category": "magic",
+  "components": ["magic_wand", "ares_belt"],
+  "properties": [
+    {
+      "type": "Magic",
+      "value": 60,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 800,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Freeze",
+      "effect": "Skills that damage a target will carry a 20% slow down effect. This effect will slowly fade away within 2s.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

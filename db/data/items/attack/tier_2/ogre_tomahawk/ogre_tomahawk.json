@@ -1,0 +1,27 @@
+{
+  "name": "Ogre Tomahawk",
+  "tier": 2,
+  "price": 790,
+  "category": "attack",
+  "components": ["great_sword", "vitality_crystal"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 30,
+      "modifier": false
+    },
+    {
+      "type": "HP",
+      "value": 230,
+      "modifier": false
+    }
+  ],
+  "effects": [
+    {
+      "name": "Fury",
+      "effect": "Basic attacks will increase hero's movement speed 10%.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

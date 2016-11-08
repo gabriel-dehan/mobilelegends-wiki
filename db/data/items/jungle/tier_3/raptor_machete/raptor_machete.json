@@ -1,0 +1,39 @@
+{
+  "name": "Raptor Machete",
+  "tier": 3,
+  "price": 1700,
+  "category": "jungle",
+  "components": ["nimble_blade", "great_sword", "great_sword"],
+  "properties": [
+    {
+      "type": "Physical",
+      "value": 35,
+      "modifier": false
+    },
+    {
+      "type": "Attack",
+      "value": 12,
+      "modifier": true
+    }
+  ],
+  "effects": [
+    {
+      "name": "",
+      "effect": "+30% Damage to Monsters",
+      "unique": true,
+      "passive": false
+    },
+    {
+      "name": "Avarice",
+      "effect": "Get an extra 30% Exp when jungling.",
+      "unique": true,
+      "passive": true
+    },
+    {
+      "name": "Gorge",
+      "effect": "Slaying jungle monsters increases your physical attack 4. Stacks up to 10 times.",
+      "unique": true,
+      "passive": true
+    }
+  ]
+}

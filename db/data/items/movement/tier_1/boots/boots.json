@@ -1,0 +1,15 @@
+{
+  "name": "Boots",
+  "tier": 1,
+  "price": 250,
+  "category": "movement",
+  "components": [],
+  "properties": [],
+  "effects": [
+    {
+      "effect": "+25 Movement Speed",
+      "unique": true,
+      "passive": false
+    }
+  ]
+}
