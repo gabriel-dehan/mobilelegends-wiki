@@ -1,1 +1,39 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# MOBA Shop Interface 
+
+## RoR Application
+
+To provide the data 
+
+## JSON Data Structure
+
+```js
+{
+ "name": "Tough Boots",
+ "tier": 2,
+ "price": 890,
+ "category": "movement",
+ "components": [ "boots", "magic_resist_cloak" ],
+ "properties": [
+                {
+                 "type": "Magic Resistance",
+                 "value": 22, // Could be negative
+                 "modifier": false // Is percentage (%)
+                 }
+                ],
+ "effects": [
+             {
+              "name": null, // Optional
+              "effect": "+50 Movement Speed",
+              "unique": true,
+              "passive": false
+              },
+             {
+              "name": "Fortitude",
+              "effect": "25% Increased Resilience",
+              "unique": true,
+              "passive": true
+              }
+             ]
+ }
+```
+
