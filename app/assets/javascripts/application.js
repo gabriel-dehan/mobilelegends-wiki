@@ -6,7 +6,6 @@
 //= require vue
 //= require vue-router
 //= require vue-resource
-//= require vuex/dist/vuex
 //= require_tree ./lib
 //= require_tree ./components
 //= require_tree ./app
