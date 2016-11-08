@@ -97,7 +97,7 @@ def json_extractor
   # Item.where("'boots' = ANY (components)")
 end
 
-# items = csv_to_hash
-# write_hash_to_data(items)
+items = csv_to_hash
+write_hash_to_data(items)
 json_extractor
 
