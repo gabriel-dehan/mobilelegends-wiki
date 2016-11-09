@@ -6,7 +6,7 @@
   "components": ["exotic_veil", "mystery_codex"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power ",
       "value": 55,
       "modifier": false
     },
@@ -16,7 +16,7 @@
       "modifier": false
     },
     {
-      "type": "Magic",
+      "type": "Magic Damage Reduction",
       "value": 25,
       "modifier": false
     }

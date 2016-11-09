@@ -6,17 +6,17 @@
   "components": ["wild_sword", "javelin"],
   "properties": [
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 30,
       "modifier": true
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 8,
       "modifier": true
     },
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 20,
       "modifier": true
     }

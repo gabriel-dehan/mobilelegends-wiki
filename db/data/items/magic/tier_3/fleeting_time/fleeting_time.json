@@ -6,17 +6,17 @@
   "components": ["magic_wand", "book_of_sages", "book_of_sages"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 75,
       "modifier": false
     },
     {
-      "type": "Mana",
+      "type": "Mana Regen",
       "value": 15,
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 20,
       "modifier": true
     }

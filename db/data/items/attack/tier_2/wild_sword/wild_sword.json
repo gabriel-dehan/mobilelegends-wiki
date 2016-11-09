@@ -6,17 +6,17 @@
   "components": ["dagger", "javelin"],
   "properties": [
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 15,
       "modifier": true
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 5,
       "modifier": true
     },
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 10,
       "modifier": true
     }

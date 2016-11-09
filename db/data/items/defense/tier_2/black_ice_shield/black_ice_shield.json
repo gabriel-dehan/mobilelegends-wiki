@@ -16,7 +16,7 @@
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 10,
       "modifier": true
     }

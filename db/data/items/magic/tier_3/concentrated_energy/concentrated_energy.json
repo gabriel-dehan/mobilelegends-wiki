@@ -6,12 +6,12 @@
   "components": ["magic_wand"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 95,
       "modifier": false
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 7,
       "modifier": true
     }

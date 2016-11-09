@@ -6,7 +6,7 @@
   "components": ["ogre_tomahawk", "ares_belt"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 30,
       "modifier": false
     },

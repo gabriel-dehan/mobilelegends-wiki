@@ -8,7 +8,7 @@
   ],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 8,
       "modifier": false
     },

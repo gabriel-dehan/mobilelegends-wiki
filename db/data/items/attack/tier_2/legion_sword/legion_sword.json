@@ -6,7 +6,7 @@
   "components": ["great_sword", "great_sword"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 60,
       "modifier": false
     }

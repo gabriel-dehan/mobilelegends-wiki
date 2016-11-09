@@ -6,12 +6,12 @@
   "components": ["ogre_tomahawk", "wild_sword", "azure_blade"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 45,
       "modifier": false
     },
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 25,
       "modifier": true
     },
@@ -21,17 +21,17 @@
       "modifier": false
     },
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 20,
       "modifier": true
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 5,
       "modifier": true
     },
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 15,
       "modifier": true
     }

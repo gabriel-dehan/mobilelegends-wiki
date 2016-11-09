@@ -6,7 +6,7 @@
   "components": ["azure_blade", "magic_wand"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 70,
       "modifier": false
     },
@@ -16,7 +16,7 @@
       "modifier": false
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 8,
       "modifier": true
     }

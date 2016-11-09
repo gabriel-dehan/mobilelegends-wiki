@@ -11,17 +11,17 @@
       "modifier": false
     },
     {
-      "type": "Magic",
+      "type": "Magic Resistance",
       "value": 36,
       "modifier": false
     },
     {
-      "type": "HP",
+      "type": "HP Regen",
       "value": 35,
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 10,
       "modifier": true
     }

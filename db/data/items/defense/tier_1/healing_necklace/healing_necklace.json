@@ -8,7 +8,7 @@
   ],
   "properties": [
     {
-      "type": "HP",
+      "type": "HP Regen",
       "value": 20,
       "modifier": false
     }

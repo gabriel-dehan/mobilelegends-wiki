@@ -6,7 +6,7 @@
   "components": ["magic_wand", "magic_wand"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 150,
       "modifier": false
     }

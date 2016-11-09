@@ -6,12 +6,12 @@
   "components": ["nimble_blade", "great_sword", "great_sword"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 35,
       "modifier": false
     },
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 12,
       "modifier": true
     }

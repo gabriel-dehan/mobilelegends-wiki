@@ -6,12 +6,12 @@
   "components": ["great_sword", "magic_resist_cloak"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 60,
       "modifier": false
     },
     {
-      "type": "Magic",
+      "type": "Magic Resistance",
       "value": 24,
       "modifier": false
     }

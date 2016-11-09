@@ -6,12 +6,12 @@
   "components": ["great_sword", "dagger", "vampire_mallet"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 45,
       "modifier": false
     },
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 30,
       "modifier": true
     },

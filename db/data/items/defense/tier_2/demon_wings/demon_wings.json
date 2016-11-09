@@ -6,7 +6,7 @@
   "components": ["vitality_crystal", "vitality_crystal", "great_sword"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 15,
       "modifier": false
     },

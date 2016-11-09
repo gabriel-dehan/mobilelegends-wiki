@@ -6,17 +6,17 @@
   "components": ["wild_sword", "dagger"],
   "properties": [
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 40,
       "modifier": true
     },
     {
-      "type": "Movement",
+      "type": "Movement Speed",
       "value": 5,
       "modifier": true
     },
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 10,
       "modifier": true
     }

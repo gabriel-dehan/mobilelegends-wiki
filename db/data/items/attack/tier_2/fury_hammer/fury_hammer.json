@@ -6,12 +6,12 @@
   "components": ["great_sword"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 35,
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 10,
       "modifier": true
     }

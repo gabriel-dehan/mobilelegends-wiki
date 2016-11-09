@@ -6,22 +6,22 @@
   "components": ["mystery_codex", "book_of_sages"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 15,
       "modifier": false
     },
     {
-      "type": "Magic",
+      "type": "Magic Resistance",
       "value": 20,
       "modifier": false
     },
     {
-      "type": "Mana",
+      "type": "Mana Regen",
       "value": 20,
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 5,
       "modifier": true
     }

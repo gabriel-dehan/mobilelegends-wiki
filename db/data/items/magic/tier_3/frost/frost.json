@@ -6,7 +6,7 @@
   "components": ["magic_wand", "ares_belt"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 60,
       "modifier": false
     },

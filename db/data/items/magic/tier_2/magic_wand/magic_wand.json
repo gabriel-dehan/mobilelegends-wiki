@@ -6,7 +6,7 @@
   "components": ["mystery_codex"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 45,
       "modifier": false
     }

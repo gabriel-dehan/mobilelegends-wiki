@@ -6,12 +6,12 @@
   "components": ["legion_sword", "great_sword", "great_sword"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 100,
       "modifier": false
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 20,
       "modifier": true
     }

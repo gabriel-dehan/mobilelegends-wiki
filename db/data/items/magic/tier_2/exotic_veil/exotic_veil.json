@@ -6,7 +6,7 @@
   "components": ["mystery_codex", "vitality_crystal"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 30,
       "modifier": false
     },

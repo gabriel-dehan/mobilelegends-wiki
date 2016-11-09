@@ -6,7 +6,7 @@
   "components": ["legion_sword", "vampire_mallet"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 75,
       "modifier": false
     }

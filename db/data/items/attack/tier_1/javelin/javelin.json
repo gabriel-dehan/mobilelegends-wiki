@@ -8,7 +8,7 @@
   ],
   "properties": [
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 8,
       "modifier": true
     }

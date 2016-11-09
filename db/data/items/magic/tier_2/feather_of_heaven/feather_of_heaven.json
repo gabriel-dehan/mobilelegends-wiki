@@ -6,17 +6,17 @@
   "components": ["mystery_codex", "power_crystal", "book_of_sages"],
   "properties": [
     {
-      "type": "Magic",
+      "type": "Magic Power",
       "value": 40,
       "modifier": false
     },
     {
-      "type": "Attack",
+      "type": "Attack Speed",
       "value": 20,
       "modifier": true
     },
     {
-      "type": "Cooldown",
+      "type": "Cooldown Reduction",
       "value": 15,
       "modifier": true
     }

@@ -6,12 +6,12 @@
   "components": ["legion_sword", "javelin", "javelin"],
   "properties": [
     {
-      "type": "Physical",
+      "type": "Physical Attack",
       "value": 75,
       "modifier": false
     },
     {
-      "type": "Critical",
+      "type": "Critical Strike Chance",
       "value": 20,
       "modifier": true
     }
