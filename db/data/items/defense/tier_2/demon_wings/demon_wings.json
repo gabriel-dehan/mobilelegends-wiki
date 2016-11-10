@@ -23,7 +23,7 @@
   "effects": [
     {
       "name": "Demonize",
-      "effect": "Increases attack 40 when HP drops below 30%.",
+      "effect": "Increases attack 40 when HP drops below 40%.",
       "unique": true,
       "passive": true
     }

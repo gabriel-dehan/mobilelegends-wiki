@@ -4,6 +4,7 @@
   "price": 780,
   "category": "magic",
   "components": [
+    "power_crystal",
     "mystery_codex"
   ],
   "properties": [

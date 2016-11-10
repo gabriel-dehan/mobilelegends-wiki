@@ -20,6 +20,12 @@
       "effect": "+25% Lifesteal",
       "unique": true,
       "passive": false
+    },
+    {
+      "name": "Frenzy",
+      "effect": "When HP drops below 20%, the herol will receive an extra 10% physical lifesteal.",
+      "unique": true,
+      "passive": true
     }
   ],
   "craft_price": 400

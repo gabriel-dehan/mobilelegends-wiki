@@ -22,7 +22,7 @@
   "effects": [
     {
       "name": "Deter",
-      "effect": "When enemy heroes are attacking, reduces attack speed 12% and movement speed 5%. This effect lasts 2s and can stack up to 3 times.",
+      "effect": "When an enemy hero attacks, this ability will reduce his/her attack power by 4%. This effect lasts 2s and can stack up to 3 times.",
       "unique": true,
       "passive": true
     }

@@ -15,8 +15,8 @@
       "modifier": false
     },
     {
-      "type": "Magic Resistance",
-      "value": 28,
+      "type": "HP",
+      "value": 400,
       "modifier": false
     },
     {
@@ -38,5 +38,5 @@
       "passive": true
     }
   ],
-  "craft_price": 560
+  "craft_price": 450
 }

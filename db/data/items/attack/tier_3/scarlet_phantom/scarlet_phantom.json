@@ -9,13 +9,13 @@
   ],
   "properties": [
     {
-      "type": "Attack Speed",
-      "value": 40,
-      "modifier": true
+      "type": "Physical Attack",
+      "value": 30,
+      "modifier": false
     },
     {
-      "type": "Movement Speed",
-      "value": 5,
+      "type": "Attack Speed",
+      "value": 40,
       "modifier": true
     },
     {
@@ -32,5 +32,5 @@
       "passive": true
     }
   ],
-  "craft_price": 1070
+  "craft_price": 1050
 }

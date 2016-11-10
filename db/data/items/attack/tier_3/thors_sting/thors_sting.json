@@ -1,5 +1,5 @@
 {
-  "name": "Thor's String",
+  "name": "Thor's Sting",
   "tier": 3,
   "price": 1870,
   "category": "attack",
@@ -28,6 +28,12 @@
     {
       "name": "Lightning",
       "effect": "After 5 basic attacks, the next basic attack must deal 125 magic damage to 3 enemies.",
+      "unique": true,
+      "passive": true
+    },
+    {
+      "name": "Activate",
+      "effect": "Every time 'Lightning' is cast, your movement speed will be increased by 10% for a short duration.",
       "unique": true,
       "passive": true
     }

@@ -34,8 +34,8 @@
       "passive": true
     },
     {
-      "name": "Gorge",
-      "effect": "Slaying jungle monsters increases your magic attack 4. Stacks up to 10 times.",
+      "name": "Warding Wind",
+      "effect": "Slaying jungle monsters increases your movement speed by 5%. Lasts 30s.",
       "unique": true,
       "passive": true
     }

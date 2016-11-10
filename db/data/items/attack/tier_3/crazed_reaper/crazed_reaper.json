@@ -19,8 +19,8 @@
       "modifier": false
     },
     {
-      "type": "Cooldown Reduction",
-      "value": 15,
+      "type": "Attack Speed",
+      "value": 20,
       "modifier": true
     }
   ],
@@ -38,5 +38,5 @@
       "passive": true
     }
   ],
-  "craft_price": 195
+  "craft_price": 550
 }

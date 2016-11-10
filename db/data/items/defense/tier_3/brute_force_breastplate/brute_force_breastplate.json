@@ -22,7 +22,7 @@
   "effects": [
     {
       "name": "Brute Force",
-      "effect": "Each attack received adds 2% attack speed and 3% physical attack.",
+      "effect": "Attacking an ennemy will increase your capabilities, increasing movement speed by 2% and physical attack by 3%. This effect lasts 4s and can stack up to 4 times.",
       "unique": true,
       "passive": true
     }

@@ -5,8 +5,8 @@
   "category": "magic",
   "components": [
     "mystery_codex",
-    "power_crystal",
-    "book_of_sages"
+    "dagger",
+    "dagger"
   ],
   "properties": [
     {
@@ -16,14 +16,9 @@
     },
     {
       "type": "Attack Speed",
-      "value": 20,
+      "value": 30,
       "modifier": true
     },
-    {
-      "type": "Cooldown Reduction",
-      "value": 15,
-      "modifier": true
-    }
   ],
   "effects": [
     {
@@ -33,5 +28,5 @@
       "passive": true
     }
   ],
-  "craft_price": 1090
+  "craft_price": 1100
 }

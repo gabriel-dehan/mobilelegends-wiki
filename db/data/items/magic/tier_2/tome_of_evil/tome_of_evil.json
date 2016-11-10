@@ -10,12 +10,7 @@
   "properties": [
     {
       "type": "Magic Power",
-      "value": 15,
-      "modifier": false
-    },
-    {
-      "type": "Magic Resistance",
-      "value": 20,
+      "value": 35,
       "modifier": false
     },
     {
@@ -25,12 +20,12 @@
     },
     {
       "type": "Cooldown Reduction",
-      "value": 5,
+      "value": 8,
       "modifier": true
     }
   ],
   "effects": [
 
   ],
-  "craft_price": 150
+  "craft_price": 200
 }

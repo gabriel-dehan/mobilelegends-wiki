@@ -4,27 +4,28 @@
   "price": 1980,
   "category": "defense",
   "components": [
-    "ares_belt"
+    "ares_belt",
+    "magic_resist_cloak"
   ],
   "properties": [
     {
-      "type": "Armor",
-      "value": 30,
+      "type": "HP",
+      "value": 800,
       "modifier": false
     },
     {
       "type": "Magic Resistance",
-      "value": 30,
+      "value": 40,
       "modifier": false
     }
   ],
   "effects": [
     {
       "name": "Rebirth",
-      "effect": "Resurrect 2s after dying and get 25% HP and shield that can absorb damage equal to 50% max HP. Shield lasts for 3s. Cooldown for this effect is 180s.",
+      "effect": "Resurrect 2s after dying and get 15% HP and shield that can absorb damage equal to 40% max HP. Shield lasts for 3s. Cooldown for this effect is 180s.",
       "unique": true,
       "passive": true
     }
   ],
-  "craft_price": 1080
+  "craft_price": 1000
 }

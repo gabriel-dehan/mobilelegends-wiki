@@ -18,6 +18,11 @@
       "value": 70,
       "modifier": false
     }
+    {
+      "type": "Critical Strike Rate Reduction",
+      "value": 5,
+      "modifier": true
+    }
   ],
   "effects": [
     {
@@ -27,8 +32,8 @@
       "passive": false
     },
     {
-      "name": "Arctic",
-      "effect": "Cold: Lowers attack speed of neerby enemy heroes 30%.",
+      "name": "Arctic Cold",
+      "effect": "Lowers movement speed by 5% and attack speed by 30% for nearby enemy heroes.",
       "unique": true,
       "passive": true
     }

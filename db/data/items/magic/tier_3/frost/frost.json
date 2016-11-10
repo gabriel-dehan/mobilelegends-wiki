@@ -4,19 +4,24 @@
   "price": 2070,
   "category": "magic",
   "components": [
-    "magic_wand",
-    "ares_belt"
+    "magic_necklace",
+    "magic_wand"
   ],
   "properties": [
     {
       "type": "Magic Power",
-      "value": 60,
+      "value": 75,
       "modifier": false
     },
     {
-      "type": "HP",
-      "value": 800,
+      "type": "Mana Regen",
+      "value": 15,
       "modifier": false
+    },
+    {
+      "type": "Movement Speed",
+      "value": 7,
+      "modifier": true
     }
   ],
   "effects": [
@@ -27,5 +32,5 @@
       "passive": true
     }
   ],
-  "craft_price": 350
+  "craft_price": 1100
 }

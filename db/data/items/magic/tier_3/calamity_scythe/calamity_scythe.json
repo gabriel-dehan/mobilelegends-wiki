@@ -19,8 +19,8 @@
       "modifier": false
     },
     {
-      "type": "Movement Speed",
-      "value": 8,
+      "type": "Cooldown Reduction",
+      "value": 10,
       "modifier": true
     }
   ],
@@ -32,5 +32,5 @@
       "passive": true
     }
   ],
-  "craft_price": 210
+  "craft_price": 500
 }

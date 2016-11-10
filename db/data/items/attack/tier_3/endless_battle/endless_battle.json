@@ -5,13 +5,13 @@
   "category": "attack",
   "components": [
     "ogre_tomahawk",
-    "wild_sword",
+    "vampire_mallet",
     "azure_blade"
   ],
   "properties": [
     {
       "type": "Physical Attack",
-      "value": 45,
+      "value": 50,
       "modifier": false
     },
     {
@@ -21,13 +21,8 @@
     },
     {
       "type": "HP",
-      "value": 230,
+      "value": 350,
       "modifier": false
-    },
-    {
-      "type": "Attack Speed",
-      "value": 20,
-      "modifier": true
     },
     {
       "type": "Movement Speed",
@@ -35,9 +30,14 @@
       "modifier": true
     },
     {
-      "type": "Critical Strike Chance",
+      "type": "Lifesteal",
       "value": 15,
       "modifier": true
+    },
+    {
+      "type": "Mana",
+      "value": 400,
+      "modifier": false
     }
   ],
   "effects": [

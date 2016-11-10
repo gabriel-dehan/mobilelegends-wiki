@@ -13,9 +13,9 @@
       "modifier": false
     },
     {
-      "type": "Movement Speed",
-      "value": 7,
-      "modifier": true
+      "type": "HP",
+      "value": 300,
+      "modifier": false
     }
   ],
   "effects": [

@@ -14,11 +14,6 @@
       "modifier": true
     },
     {
-      "type": "Movement Speed",
-      "value": 5,
-      "modifier": true
-    },
-    {
       "type": "Critical Strike Chance",
       "value": 10,
       "modifier": true
@@ -27,5 +22,5 @@
   "effects": [
 
   ],
-  "craft_price": 190
+  "craft_price": 200
 }

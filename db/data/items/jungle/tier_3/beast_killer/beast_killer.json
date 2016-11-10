@@ -10,8 +10,13 @@
   ],
   "properties": [
     {
-      "type": "HP",
-      "value": 615,
+      "type": "Armor",
+      "value": 20,
+      "modifier": false
+    },
+    {
+      "type": "Magic Resistance",
+      "value": 20,
       "modifier": false
     }
   ],
@@ -30,7 +35,7 @@
     },
     {
       "name": "Gorge",
-      "effect": "Slaying jungle monsters increases your HP 50. Stacks up to 10 times.",
+      "effect": "Slaying jungle monsters increases your physical and magic defense by 2. Stacks up to 10 times.",
       "unique": true,
       "passive": true
     }

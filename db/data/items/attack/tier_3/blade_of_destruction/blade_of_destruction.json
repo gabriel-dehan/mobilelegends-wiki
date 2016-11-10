@@ -26,6 +26,12 @@
       "effect": "+50% Crit Damage",
       "unique": true,
       "passive": false
+    },
+    {
+      "name": "Doom",
+      "effect": "Crit strikes will increase your physical attack by 5%, lasting 2s.",
+      "unique": true,
+      "passive": true
     }
   ],
   "craft_price": 850

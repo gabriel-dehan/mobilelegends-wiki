@@ -5,13 +5,23 @@
   "category": "attack",
   "components": [
     "legion_sword",
-    "legion_sword"
+    "wild_sword"
   ],
   "properties": [
     {
       "type": "Physical Attack",
-      "value": 150,
+      "value": 130,
       "modifier": false
+    },
+    {
+      "type": "Attack Speed",
+      "value": 25,
+      "modifier": true
+    },
+    {
+      "type": "Critical Strike Chance",
+      "value": 10,
+      "modifier": true
     }
   ],
   "effects": [
