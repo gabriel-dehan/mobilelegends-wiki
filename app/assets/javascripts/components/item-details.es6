@@ -11,7 +11,7 @@ Vue.component('item-details', {
       const totalWidth = _.sum(itemsWidth);
       this.relatedItemsWidth = totalWidth;
 
-      $('.horizontal-list').perfectScrollbar({suppressScrollY: true});
+      $('.horizontal-list').perfectScrollbar({ suppressScrollY: true, useBothWheelAxes: true, handlers: ['selection', 'click-rail', 'drag-scrollbar', 'keyboard', 'wheel', 'touch'] });
     }).defer();
   },
   computed: {
