@@ -1,3 +1,7 @@
+/*
+ *= require perfect-scrollbar
+ */
+
 // Graphical variables
 @import "config/variables";
 @import "config/mixins";
@@ -7,6 +11,7 @@
 @import "font-awesome";
 @import "alertify";
 @import "alertify/default";
+@import "perfect-scrollbar";
 
 // Your CSS
 @import "layout/index";

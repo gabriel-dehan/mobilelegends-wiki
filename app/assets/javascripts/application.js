@@ -6,6 +6,7 @@
 //= require vue
 //= require vue-router
 //= require vue-resource
+//= require perfect-scrollbar
 //= require_tree ./lib
 //= require_tree ./components
 //= require_tree ./app

@@ -19,6 +19,7 @@ gem 'font-awesome-sass'
 gem 'autoprefixer-rails'
 gem 'sprockets', '>= 3.0.0'
 gem 'sprockets-es6'
+gem 'perfect-scrollbar-rails'
 
 group :development, :test do
   gem 'awesome_print'

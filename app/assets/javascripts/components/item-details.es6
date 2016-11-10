@@ -10,6 +10,8 @@ Vue.component('item-details', {
       const itemsWidth = $el.find('.related-items li').map((i, el) => $(el).width() + 15);
       const totalWidth = _.sum(itemsWidth);
       this.relatedItemsWidth = totalWidth;
+
+      $('.horizontal-list').perfectScrollbar({suppressScrollY: true});
     }).defer();
   },
   computed: {
