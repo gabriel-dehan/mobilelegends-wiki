@@ -1,7 +1,7 @@
 {
   "name": "Wild Sword",
   "tier": 2,
-  "price": 790,
+  "price": 900,
   "category": "attack",
   "components": [
     "dagger",
@@ -22,5 +22,5 @@
   "effects": [
 
   ],
-  "craft_price": 200
+  "craft_price": 300
 }

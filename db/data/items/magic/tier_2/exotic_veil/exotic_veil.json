@@ -4,8 +4,7 @@
   "price": 1020,
   "category": "magic",
   "components": [
-    "mystery_codex",
-    "vitality_crystal"
+    "mystery_codex"
   ],
   "properties": [
     {
@@ -27,5 +26,5 @@
       "passive": false
     }
   ],
-  "craft_price": 420
+  "craft_price": 720
 }

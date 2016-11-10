@@ -16,7 +16,7 @@
            :alt="item.name" />
     </div>
     <div v-if="!minimal" class="item-price">
-      {{ item.price }} 
+      {{ item.full_price }} 
     </div>
     <div v-if="hovered && !minimal" class="item-tooltip" v-bind:style="{ top: getTooltipPosition.top + 'px', left: getTooltipPosition.left + 'px' }">
       <h4 class="item-title">{{ item.name }}</h4>

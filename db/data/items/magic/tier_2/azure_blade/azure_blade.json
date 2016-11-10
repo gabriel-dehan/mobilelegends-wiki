@@ -4,8 +4,8 @@
   "price": 780,
   "category": "magic",
   "components": [
-    "power_crystal",
-    "mystery_codex"
+    "mystery_codex",
+    "power_crystal"
   ],
   "properties": [
     {
@@ -27,5 +27,5 @@
       "passive": true
     }
   ],
-  "craft_price": 480
+  "craft_price": 260
 }

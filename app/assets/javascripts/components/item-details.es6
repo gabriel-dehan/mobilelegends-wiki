@@ -14,7 +14,7 @@ Vue.component('item-details', {
   },
   computed: {
     components() {
-      return _.filter(this.items, (item) => _.includes(this.item.components, _.snakeCase(item.name)));
+      return _.map(this.item.components, (name) => _.find(this.items, { code_name: name }));
     },
     totalRelatedItemsWidth() {
       return `${this.relatedItemsWidth}px`;

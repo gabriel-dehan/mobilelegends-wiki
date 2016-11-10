@@ -10,13 +10,13 @@
   "properties": [
     {
       "type": "Magic Power ",
-      "value": 55,
+      "value": 75,
       "modifier": false
     },
     {
-      "type": "HP",
-      "value": 460,
-      "modifier": false
+      "type": "Movement Speed",
+      "value": 5,
+      "modifier": true
     },
     {
       "type": "Magic Damage Reduction",

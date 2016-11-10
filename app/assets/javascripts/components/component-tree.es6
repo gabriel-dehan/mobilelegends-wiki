@@ -3,7 +3,7 @@ Vue.component('component-tree', {
   template: '#item-component-tree',
   methods: {
     componentsFor(currentItem) {
-      return _.filter(this.allItems, (item) => _.includes(currentItem.components, _.snakeCase(item.name)));
+ 			return _.map(currentItem.components, (name) => _.find(this.allItems, { code_name: name }));
     }
   }
 });

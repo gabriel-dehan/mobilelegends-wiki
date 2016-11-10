@@ -17,7 +17,7 @@
       "type": "Armor",
       "value": 70,
       "modifier": false
-    }
+    },
     {
       "type": "Critical Strike Rate Reduction",
       "value": 5,
@@ -38,5 +38,5 @@
       "passive": true
     }
   ],
-  "craft_price": 500
+  "craft_price": 600
 }

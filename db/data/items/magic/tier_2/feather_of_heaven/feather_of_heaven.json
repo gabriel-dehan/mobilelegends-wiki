@@ -18,7 +18,7 @@
       "type": "Attack Speed",
       "value": 30,
       "modifier": true
-    },
+    }
   ],
   "effects": [
     {

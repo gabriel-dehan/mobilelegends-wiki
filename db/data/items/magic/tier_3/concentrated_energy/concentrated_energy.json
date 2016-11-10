@@ -4,17 +4,18 @@
   "price": 2130,
   "category": "magic",
   "components": [
-    "magic_wand"
+    "magic_wand",
+    "vitality_crystal"
   ],
   "properties": [
     {
       "type": "Magic Power",
-      "value": 95,
+      "value": 70,
       "modifier": false
     },
     {
       "type": "HP",
-      "value": 300,
+      "value": 700,
       "modifier": false
     }
   ],
@@ -26,5 +27,5 @@
       "passive": false
     }
   ],
-  "craft_price": 1310
+  "craft_price": 1000
 }

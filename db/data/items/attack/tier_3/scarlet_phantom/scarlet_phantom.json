@@ -1,7 +1,7 @@
 {
   "name": "Scarlet Phantom",
   "tier": 3,
-  "price": 2140,
+  "price": 2120,
   "category": "attack",
   "components": [
     "wild_sword",
@@ -32,5 +32,5 @@
       "passive": true
     }
   ],
-  "craft_price": 1050
+  "craft_price": 940
 }

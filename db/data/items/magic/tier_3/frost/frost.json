@@ -4,8 +4,8 @@
   "price": 2070,
   "category": "magic",
   "components": [
-    "magic_necklace",
-    "magic_wand"
+    "magic_wand",
+    "magic_necklace"
   ],
   "properties": [
     {
