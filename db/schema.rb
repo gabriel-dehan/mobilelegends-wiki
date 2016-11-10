@@ -10,19 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161023001123) do
+ActiveRecord::Schema.define(version: 20161109174832) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "items", force: :cascade do |t|
-    t.string  "name",                    null: false
-    t.integer "tier",                    null: false
-    t.integer "price",                   null: false
-    t.string  "category",                null: false
-    t.text    "components", default: [],              array: true
-    t.json    "properties", default: []
-    t.json    "effects",    default: []
+    t.string  "name",                     null: false
+    t.integer "tier",                     null: false
+    t.integer "price",                    null: false
+    t.string  "category",                 null: false
+    t.text    "components",  default: [],              array: true
+    t.json    "properties",  default: []
+    t.json    "effects",     default: []
+    t.integer "craft_price",              null: false
+    t.string  "code_name",   default: ""
   end
 
 end

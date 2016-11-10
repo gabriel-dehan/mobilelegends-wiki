@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 1810,
   "category": "magic",
-  "components": ["azure_blade", "magic_wand"],
+  "components": [
+    "azure_blade",
+    "magic_wand"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -28,5 +31,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 210
 }

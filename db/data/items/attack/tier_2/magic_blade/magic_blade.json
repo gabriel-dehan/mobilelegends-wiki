@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 1710,
   "category": "attack",
-  "components": ["great_sword", "magic_resist_cloak"],
+  "components": [
+    "great_sword",
+    "magic_resist_cloak"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1240
 }

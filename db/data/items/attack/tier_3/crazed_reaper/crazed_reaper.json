@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2215,
   "category": "attack",
-  "components": ["ogre_tomahawk", "fury_hammer"],
+  "components": [
+    "ogre_tomahawk",
+    "fury_hammer"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -34,5 +37,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 195
 }

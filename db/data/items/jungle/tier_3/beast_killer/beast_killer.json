@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 1825,
   "category": "jungle",
-  "components": ["pillager_axe", "leather_jerkin", "magic_resist_cloak"],
+  "components": [
+    "pillager_axe",
+    "leather_jerkin",
+    "magic_resist_cloak"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -30,5 +34,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 665
 }

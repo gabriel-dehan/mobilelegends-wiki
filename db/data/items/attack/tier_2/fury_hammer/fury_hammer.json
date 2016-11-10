@@ -3,7 +3,9 @@
   "tier": 2,
   "price": 1230,
   "category": "attack",
-  "components": ["great_sword"],
+  "components": [
+    "great_sword"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +25,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 980
 }

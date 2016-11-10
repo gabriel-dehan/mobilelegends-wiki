@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 1020,
   "category": "magic",
-  "components": ["mystery_codex", "vitality_crystal"],
+  "components": [
+    "mystery_codex",
+    "vitality_crystal"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 420
 }

@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 790,
   "category": "attack",
-  "components": ["dagger", "javelin"],
+  "components": [
+    "dagger",
+    "javelin"
+  ],
   "properties": [
     {
       "type": "Attack Speed",
@@ -23,5 +26,6 @@
   ],
   "effects": [
 
-  ]
+  ],
+  "craft_price": 190
 }

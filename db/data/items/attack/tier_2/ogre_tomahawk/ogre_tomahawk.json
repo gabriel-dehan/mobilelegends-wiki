@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 790,
   "category": "attack",
-  "components": ["great_sword", "vitality_crystal"],
+  "components": [
+    "great_sword",
+    "vitality_crystal"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 240
 }

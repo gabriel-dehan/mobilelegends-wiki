@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2380,
   "category": "defense",
-  "components": ["ares_belt", "healing_necklace"],
+  "components": [
+    "ares_belt",
+    "healing_necklace"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1340
 }

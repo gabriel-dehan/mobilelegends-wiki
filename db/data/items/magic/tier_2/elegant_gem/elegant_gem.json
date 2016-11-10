@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 700,
   "category": "magic",
-  "components": ["power_crystal", "vitality_crystal"],
+  "components": [
+    "power_crystal",
+    "vitality_crystal"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 180
 }

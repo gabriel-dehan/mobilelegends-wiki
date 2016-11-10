@@ -3,7 +3,9 @@
   "tier": 2,
   "price": 780,
   "category": "magic",
-  "components": ["mystery_codex"],
+  "components": [
+    "mystery_codex"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -23,5 +25,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 480
 }

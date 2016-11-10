@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 900,
   "category": "magic",
-  "components": ["mystery_codex", "book_of_sages"],
+  "components": [
+    "mystery_codex",
+    "book_of_sages"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -28,5 +31,6 @@
   ],
   "effects": [
 
-  ]
+  ],
+  "craft_price": 150
 }

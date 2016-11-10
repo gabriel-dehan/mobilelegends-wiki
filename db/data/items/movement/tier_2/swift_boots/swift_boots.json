@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 710,
   "category": "movement",
-  "components": [ "boots", "dagger" ],
+  "components": [
+    "boots",
+    "dagger"
+  ],
   "properties": [
     {
       "type": "Attack Speed",
@@ -17,5 +20,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 180
 }

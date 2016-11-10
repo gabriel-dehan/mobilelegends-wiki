@@ -3,7 +3,9 @@
   "tier": 1,
   "price": 220,
   "category": "defense",
-  "components": [],
+  "components": [
+
+  ],
   "properties": [
     {
       "type": "Magic Resistance",
@@ -11,5 +13,8 @@
       "modifier": false
     }
   ],
-  "effects": []
+  "effects": [
+
+  ],
+  "craft_price": 220
 }

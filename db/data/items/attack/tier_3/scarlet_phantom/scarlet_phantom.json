@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2140,
   "category": "attack",
-  "components": ["wild_sword", "dagger"],
+  "components": [
+    "wild_sword",
+    "dagger"
+  ],
   "properties": [
     {
       "type": "Attack Speed",
@@ -28,5 +31,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1070
 }

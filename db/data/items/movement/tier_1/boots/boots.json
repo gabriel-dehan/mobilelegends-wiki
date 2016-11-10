@@ -3,13 +3,18 @@
   "tier": 1,
   "price": 250,
   "category": "movement",
-  "components": [],
-  "properties": [],
+  "components": [
+
+  ],
+  "properties": [
+
+  ],
   "effects": [
     {
       "effect": "+25 Movement Speed",
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 250
 }

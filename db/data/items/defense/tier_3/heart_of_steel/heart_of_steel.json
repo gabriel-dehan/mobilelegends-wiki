@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 2260,
   "category": "defense",
-  "components": ["ares_belt", "leather_jerkin", "healing_necklace"],
+  "components": [
+    "ares_belt",
+    "leather_jerkin",
+    "healing_necklace"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -28,5 +32,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 1000
 }

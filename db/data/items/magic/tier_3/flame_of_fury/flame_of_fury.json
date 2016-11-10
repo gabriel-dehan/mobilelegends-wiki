@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 1770,
   "category": "magic",
-  "components": ["exotic_veil", "mystery_codex"],
+  "components": [
+    "exotic_veil",
+    "mystery_codex"
+  ],
   "properties": [
     {
       "type": "Magic Power ",
@@ -28,5 +31,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 450
 }

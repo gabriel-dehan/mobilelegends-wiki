@@ -3,7 +3,9 @@
   "tier": 2,
   "price": 720,
   "category": "jungle",
-  "components": ["hunters_knife"],
+  "components": [
+    "hunters_knife"
+  ],
   "properties": [
 
   ],
@@ -26,5 +28,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 470
 }

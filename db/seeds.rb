@@ -97,7 +97,37 @@ def json_extractor
   # Item.where("'boots' = ANY (components)")
 end
 
+=begin
+def item_price_collector
+
+  require 'find'
+
+  pathes = []
+  base_path = Rails.root.join('db', 'data')
+
+  Find.find(base_path) do |path|
+    unless FileTest.directory?(path) 
+      pathes << path if File.extname(path) == ".json"
+    end
+  end
+  
+  pathes.map do |path| 
+    file = File.new(path, "r")
+    record = JSON.parse(file.read).with_indifferent_access
+    name = record[:name]
+    items = Item.all
+    item = Item.find_by(name: name)
+
+    prices = item.fetch_components.pluck(:price)
+    craft_price = item.price - (prices.any? ? prices.inject(:+) : 0)
+    record[:craft_price] = craft_price
+    File.open(path, 'w') { |file| file.write(JSON.pretty_generate(record)) } 
+  end
+end
+=end
+
 #items = csv_to_hash
 #write_hash_to_data(items)
 json_extractor
+
 

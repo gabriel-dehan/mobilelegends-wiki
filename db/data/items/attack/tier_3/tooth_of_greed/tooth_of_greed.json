@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 1710,
   "category": "attack",
-  "components": ["legion_sword", "vampire_mallet"],
+  "components": [
+    "legion_sword",
+    "vampire_mallet"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -18,5 +21,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 400
 }

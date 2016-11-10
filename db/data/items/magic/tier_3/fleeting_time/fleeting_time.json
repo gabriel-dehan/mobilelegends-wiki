@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 2450,
   "category": "magic",
-  "components": ["magic_wand", "book_of_sages", "book_of_sages"],
+  "components": [
+    "magic_wand",
+    "book_of_sages",
+    "book_of_sages"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -28,5 +32,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 730
 }

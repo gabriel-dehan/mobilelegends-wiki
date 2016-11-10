@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 890,
   "category": "movement",
-  "components": [ "boots", "magic_resist_cloak" ],
+  "components": [
+    "boots",
+    "magic_resist_cloak"
+  ],
   "properties": [
     {
       "type": "Magic Resistance",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 420
 }

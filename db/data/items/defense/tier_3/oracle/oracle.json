@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2110,
   "category": "defense",
-  "components": ["silence_robe", "healing_necklace"],
+  "components": [
+    "silence_robe",
+    "healing_necklace"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -33,5 +36,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 950
 }

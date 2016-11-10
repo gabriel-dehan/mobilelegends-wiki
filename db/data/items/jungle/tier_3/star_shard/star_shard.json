@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 1825,
   "category": "jungle",
-  "components": ["curse_sword", "mystery_codex", "mystery_codex"],
+  "components": [
+    "curse_sword",
+    "mystery_codex",
+    "mystery_codex"
+  ],
   "properties": [
     {
       "type": "Mana",
@@ -35,5 +39,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 465
 }

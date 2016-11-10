@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 730,
   "category": "defense",
-  "components": ["leather_jerkin", "leather_jerkin"],
+  "components": [
+    "leather_jerkin",
+    "leather_jerkin"
+  ],
   "properties": [
     {
       "type": "Armor",
@@ -18,5 +21,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 290
 }

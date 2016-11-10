@@ -3,7 +3,9 @@
   "tier": 3,
   "price": 1980,
   "category": "defense",
-  "components": ["ares_belt"],
+  "components": [
+    "ares_belt"
+  ],
   "properties": [
     {
       "type": "Armor",
@@ -23,5 +25,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1080
 }

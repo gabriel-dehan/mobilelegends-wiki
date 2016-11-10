@@ -3,7 +3,9 @@
   "tier": 3,
   "price": 1885,
   "category": "attack",
-  "components": ["legion_sword"],
+  "components": [
+    "legion_sword"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -18,5 +20,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 975
 }

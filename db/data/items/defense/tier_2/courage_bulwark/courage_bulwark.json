@@ -3,7 +3,11 @@
   "tier": 2,
   "price": 1970,
   "category": "defense",
-  "components": ["vitality_crystal", "leather_jerkin", "magic_resist_cloak"],
+  "components": [
+    "vitality_crystal",
+    "leather_jerkin",
+    "magic_resist_cloak"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -23,5 +27,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1230
 }

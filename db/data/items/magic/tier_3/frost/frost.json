@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2070,
   "category": "magic",
-  "components": ["magic_wand", "ares_belt"],
+  "components": [
+    "magic_wand",
+    "ares_belt"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 350
 }

@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 2400,
   "category": "attack",
-  "components": ["legion_sword", "javelin", "javelin"],
+  "components": [
+    "legion_sword",
+    "javelin",
+    "javelin"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +27,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 850
 }

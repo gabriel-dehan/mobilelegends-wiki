@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2130,
   "category": "defense",
-  "components": ["black_ice_shield", "dreadnaught_armor"],
+  "components": [
+    "black_ice_shield",
+    "dreadnaught_armor"
+  ],
   "properties": [
     {
       "type": "Mana",
@@ -29,5 +32,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 500
 }

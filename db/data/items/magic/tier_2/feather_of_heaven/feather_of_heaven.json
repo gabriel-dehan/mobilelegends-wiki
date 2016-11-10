@@ -3,7 +3,11 @@
   "tier": 2,
   "price": 2060,
   "category": "magic",
-  "components": ["mystery_codex", "power_crystal", "book_of_sages"],
+  "components": [
+    "mystery_codex",
+    "power_crystal",
+    "book_of_sages"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -28,5 +32,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1090
 }

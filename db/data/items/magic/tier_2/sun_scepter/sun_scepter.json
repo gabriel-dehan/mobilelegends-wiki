@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 1650,
   "category": "magic",
-  "components": ["power_crystal", "magic_necklace"],
+  "components": [
+    "power_crystal",
+    "magic_necklace"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -23,5 +26,6 @@
   ],
   "effects": [
 
-  ]
+  ],
+  "craft_price": 1310
 }

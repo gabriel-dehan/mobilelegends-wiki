@@ -3,7 +3,9 @@
   "tier": 1,
   "price": 280,
   "category": "attack",
-  "components": [],
+  "components": [
+
+  ],
   "properties": [
     {
       "type": "Attack Speed",
@@ -11,5 +13,8 @@
       "modifier": true
     }
   ],
-  "effects": []
+  "effects": [
+
+  ],
+  "craft_price": 280
 }

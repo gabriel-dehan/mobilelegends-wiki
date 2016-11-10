@@ -3,7 +3,11 @@
   "tier": 2,
   "price": 2320,
   "category": "attack",
-  "components": ["great_sword", "dagger", "vampire_mallet"],
+  "components": [
+    "great_sword",
+    "dagger",
+    "vampire_mallet"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -28,5 +32,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1390
 }

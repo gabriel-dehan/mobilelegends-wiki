@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2170,
   "category": "defense",
-  "components": ["ares_belt", "dreadnaught_armor"],
+  "components": [
+    "ares_belt",
+    "dreadnaught_armor"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 540
 }

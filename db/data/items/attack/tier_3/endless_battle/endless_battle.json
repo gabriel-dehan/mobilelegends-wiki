@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 2540,
   "category": "attack",
-  "components": ["ogre_tomahawk", "wild_sword", "azure_blade"],
+  "components": [
+    "ogre_tomahawk",
+    "wild_sword",
+    "azure_blade"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -49,5 +53,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 180
 }

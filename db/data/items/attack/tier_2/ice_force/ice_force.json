@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 1960,
   "category": "attack",
-  "components": ["ogre_tomahawk", "ares_belt"],
+  "components": [
+    "ogre_tomahawk",
+    "ares_belt"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 270
 }

@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 2310,
   "category": "attack",
-  "components": ["legion_sword", "great_sword", "great_sword"],
+  "components": [
+    "legion_sword",
+    "great_sword",
+    "great_sword"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -23,5 +27,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 900
 }

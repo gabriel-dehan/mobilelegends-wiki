@@ -3,7 +3,10 @@
   "tier": 2,
   "price": 1020,
   "category": "defense",
-  "components": ["vitality_crystal", "magic_resist_cloak"],
+  "components": [
+    "vitality_crystal",
+    "magic_resist_cloak"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -18,5 +21,6 @@
   ],
   "effects": [
 
-  ]
+  ],
+  "craft_price": 500
 }

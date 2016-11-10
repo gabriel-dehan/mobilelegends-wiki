@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 1870,
   "category": "attack",
-  "components": ["wild_sword", "javelin"],
+  "components": [
+    "wild_sword",
+    "javelin"
+  ],
   "properties": [
     {
       "type": "Attack Speed",
@@ -28,5 +31,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 760
 }

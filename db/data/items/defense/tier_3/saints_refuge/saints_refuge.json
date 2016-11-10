@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2050,
   "category": "defense",
-  "components": ["silence_robe", "ares_belt"],
+  "components": [
+    "silence_robe",
+    "ares_belt"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -23,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 130
 }

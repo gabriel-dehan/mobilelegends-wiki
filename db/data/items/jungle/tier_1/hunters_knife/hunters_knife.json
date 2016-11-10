@@ -16,5 +16,6 @@
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 250
 }

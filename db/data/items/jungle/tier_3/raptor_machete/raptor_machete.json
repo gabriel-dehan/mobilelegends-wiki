@@ -3,7 +3,11 @@
   "tier": 3,
   "price": 1700,
   "category": "jungle",
-  "components": ["nimble_blade", "great_sword", "great_sword"],
+  "components": [
+    "nimble_blade",
+    "great_sword",
+    "great_sword"
+  ],
   "properties": [
     {
       "type": "Physical Attack",
@@ -35,5 +39,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 450
 }

@@ -3,7 +3,9 @@
   "tier": 2,
   "price": 900,
   "category": "defense",
-  "components": ["vitality_crystal"],
+  "components": [
+    "vitality_crystal"
+  ],
   "properties": [
     {
       "type": "HP",
@@ -13,5 +15,6 @@
   ],
   "effects": [
 
-  ]
+  ],
+  "craft_price": 600
 }

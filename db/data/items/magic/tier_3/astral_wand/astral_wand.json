@@ -3,7 +3,9 @@
   "tier": 3,
   "price": 2070,
   "category": "magic",
-  "components": ["magic_wand"],
+  "components": [
+    "magic_wand"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -24,5 +26,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 1250
 }

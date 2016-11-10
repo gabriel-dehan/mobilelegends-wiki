@@ -3,7 +3,11 @@
   "tier": 2,
   "price": 2030,
   "category": "magic",
-  "components": ["magic_necklace", "book_of_sages", "tome_of_evil"],
+  "components": [
+    "magic_necklace",
+    "book_of_sages",
+    "tome_of_evil"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -33,5 +37,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 560
 }

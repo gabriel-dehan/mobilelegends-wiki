@@ -3,7 +3,10 @@
   "tier": 3,
   "price": 2100,
   "category": "magic",
-  "components": ["magic_wand", "elegant_gem"],
+  "components": [
+    "magic_wand",
+    "elegant_gem"
+  ],
   "properties": [
     {
       "type": "Magic Power",
@@ -28,5 +31,6 @@
       "unique": true,
       "passive": true
     }
-  ]
+  ],
+  "craft_price": 580
 }

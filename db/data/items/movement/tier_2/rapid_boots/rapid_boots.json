@@ -3,13 +3,18 @@
   "tier": 2,
   "price": 630,
   "category": "movement",
-  "components": [ "boots" ],
-  "properties": [],
+  "components": [
+    "boots"
+  ],
+  "properties": [
+
+  ],
   "effects": [
     {
       "effect": "+65 Movement Speed",
       "unique": true,
       "passive": false
     }
-  ]
+  ],
+  "craft_price": 380
 }
