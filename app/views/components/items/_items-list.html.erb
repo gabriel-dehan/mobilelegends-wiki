@@ -1,11 +1,19 @@
 <script type="text/x-template" id="items-list-component">
-  <div class="items-list row">
-    <div v-for="tier in tiers" class="col s4">
-      <ul>
-        <li @click="updateCurrentItem(item)" v-for="item in filteredByTier(tier)">
-          <item :item="item" :selectable="true" :selected="currentItem && (currentItem.name == item.name)"></item>
-        </li>
-      </ul>
+  <div class="items-list-wrapper">
+    <div class="search-field row">
+      <div class="col s12">
+        <input type="text" placeholder="Search for an item" @keyup="searchItem($event)" >
+        <span class="search-button">&#9906;</span>
+      </div>
+    </div>
+    <div class="items-list row">
+      <div v-for="tier in tiers" class="col s4">
+        <ul>
+          <li @click="updateCurrentItem(item)" v-for="item in filteredByTier(tier)">
+            <item :item="item" :selectable="true" :selected="currentItem && (currentItem.name == item.name)"></item>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </script>

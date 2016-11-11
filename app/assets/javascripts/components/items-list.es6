@@ -3,15 +3,22 @@ Vue.component('items-list', {
   template: '#items-list-component',
   data() {
     return {
-      tiers: [1, 2, 3]
+      tiers: [1, 2, 3],
+      search: null
     };
   },
   computed: {
     filteredItems() {
-      return _.filter(this.items, (item) => item.category == this.currentCategory);
+      return _.filter(this.searchedItems, (item) => (this.currentCategory == "All" ? true : (item.category == this.currentCategory)) );
+    },
+    searchedItems() {
+      return _.filter(this.items, (item) => (_.isEmpty(this.search) ? true : item.name.match(new RegExp(this.search, "i"))));
     }
   },
   methods: {
+    searchItem(event) {
+      this.search = event.target.value;
+    },
     filteredByTier(tier) {
       return _.filter(this.filteredItems, (item) => item.tier == tier);
     },
