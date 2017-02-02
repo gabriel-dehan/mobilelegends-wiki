@@ -22,11 +22,14 @@ Vue.component('item', {
       const top = this.position.top + this.baseSize - 3;
       const left = this.position.left + this.baseSize * 2 - 2;
       return { top, left };
-    }
+    },
   },
   methods: {
     image_path(name) {
       return window.image_path(name);
+    },
+    isMobile() {
+      return window.App.isMobile();
     }
   }
 });

@@ -15,10 +15,10 @@
         Components
       </div>
       <div class="item-tree">
- <div :class="['main-component', components.length > 0 ? '' : 'no-component', components.length == 1 ? 'one-component' : '']">
+        <div :class="['main-component', components.length > 0 ? '' : 'no-component', components.length == 1 ? 'one-component' : '']">
           <item :item="item" :selectable="false" :selected="true" ></item>
         </div>
-        <component-tree :items="components" :all-items="items"></component-tree>
+        <component-tree :update-current-item="updateCurrentItem" :items="components" :all-items="items"></component-tree>
       </div>
     </div>
     <div class="item-details">

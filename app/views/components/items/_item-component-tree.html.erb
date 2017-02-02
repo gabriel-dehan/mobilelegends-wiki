@@ -1,10 +1,10 @@
 <script type="text/x-template" id="item-component-tree">
   <div v-if="items.length > 0" :class="['row', 'item-component-tree', 'components-' + items.length]">
     <div v-for="(item, index) in items" :class="['item-component', items.length > 1 ? '' : 'only-child', 'col', 's' + 12 / items.length, componentsFor(item).length > 0 ? '' : 'no-component', index == 0 ? 'first-child' : '', (index == items.length - 1) ? 'last-child' : '', componentsFor(item).length == 1 ? 'one-component' : '']">
-    <div class="component-item-wrapper">
-      <item :item="item" :selectable="false"></item>
-    </div>
-    <component-tree :items="componentsFor(item)" :all-items="allItems"></component-tree>
+      <div @click="updateCurrentItem(item)" class="component-item-wrapper">
+        <item :item="item" :selectable="true"></item>
+      </div>
+      <component-tree :update-current-item="updateCurrentItem" :items="componentsFor(item)" :all-items="allItems"></component-tree>
     </div>
  </div>
 </script>

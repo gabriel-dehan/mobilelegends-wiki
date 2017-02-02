@@ -5,6 +5,7 @@ body {
 #items-app {
     .items-app-wrapper {
         max-width: 960px;
+        width: 100%;
         background-color: $black;
         color: $white;
         border: 2px solid #0a2931;
@@ -38,6 +39,7 @@ body {
             }
 
             li {
+                cursor: pointer;
                 padding: 18px 5px;
 
                 &.selected {

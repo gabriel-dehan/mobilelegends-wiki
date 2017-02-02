@@ -1,5 +1,5 @@
 Vue.component('component-tree', {
-  props: ['items', 'all-items'],
+  props: ['items', 'all-items', 'update-current-item'],
   template: '#item-component-tree',
   methods: {
     componentsFor(currentItem) {
